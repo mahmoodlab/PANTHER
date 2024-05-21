@@ -119,7 +119,7 @@ cd src
 
 ### Step 3. Visualization
 
-To visualize GMM mixture proportions in prototypical assignment maps in PANTHER, see the accompanying [notebook](src/notebooks/prototypical_assignment_map_visualization.ipynb).
+To visualize GMM mixture proportions in prototypical assignment maps in PANTHER, see the accompanying [notebook](src/visualization/prototypical_assignment_map_visualization.ipynb).
 
 <img src='docs/prototypical_assignment_map.jpg' width="1400px" align="center"/>
 
