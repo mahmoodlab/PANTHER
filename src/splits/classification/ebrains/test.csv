@@ -1,0 +1,574 @@
+case_id,slide_id,diagnosis,diagnosis_group,grade,subtype,secondary_diagnosis,control,age,sex,location,laterality,cellularity,tissue_area,recurrence,comment,strat_label
+patient_1862,a196f370-357f-11eb-8f4c-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,69.0,male,['occipital'],right,3594.813385,88.03989696,0.0,,0
+patient_2205,a195bb18-357f-11eb-8a27-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,83.0,female,['temporal'],left,4308.436971,67.95527055,0.0,,0
+patient_1274,a1963048-357f-11eb-a46d-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,60.0,female,[],,5297.620586,48.76717685,1.0,,0
+patient_2419,a195e209-357f-11eb-a95d-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,47.0,male,['temporal'],left,7243.778406,119.8664497,0.0,,0
+patient_22,a195bad0-357f-11eb-ae3c-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,75.0,female,['temporal'],right,4923.968477,224.6346631,0.0,,0
+patient_2628,a1951ec6-357f-11eb-8633-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,50.0,male,"['parietal', 'occipital']",right,4918.306909,253.4868245,0.0,,0
+patient_2018,a19741aa-357f-11eb-8e5c-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,77.0,male,"['occipital', 'temporal']",right,3202.499069,65.18877772,0.0,,0
+patient_377,a1971a8a-357f-11eb-bd90-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,63.0,female,[],,5886.370268,293.3412139,1.0,,0
+patient_2802,a19805b9-357f-11eb-acf2-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,56.0,female,[],,7262.34091,7.538753782,0.0,,0
+patient_2079,a196a5c5-357f-11eb-8f00-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,64.0,male,[],,7713.501753,72.11277288,0.0,,0
+patient_1330,a1967e85-357f-11eb-a311-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,65.0,female,[],,775.3611549,101.7190499,1.0,,0
+patient_2185,a1965771-357f-11eb-821a-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,50.0,female,['frontal'],left,4422.877392,118.9029117,0.0,,0
+patient_2547,a19805ba-357f-11eb-aa37-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,40.0,female,[],,6432.952722,28.03424925,0.0,,0
+patient_2345,a1960948-357f-11eb-bf70-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,53.0,female,[],,4709.717316,413.9518084,0.0,,0
+patient_346,a19741da-357f-11eb-8a51-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,70.0,female,[],,3507.348707,248.7351766,0.0,,0
+patient_2144,a196307c-357f-11eb-9002-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,78.0,male,[],,3055.782954,28.81094676,0.0,,0
+patient_1706,a1951f10-357f-11eb-87e9-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,67.0,male,['temporal'],left,1571.15728,101.5728992,0.0,,0
+patient_390,a1978f99-357f-11eb-8a04-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,45.0,male,[],,7712.432403,308.2209186,0.0,,0
+patient_2330,a197b70c-357f-11eb-bd0b-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,77.0,female,"['cerebral, NOS']",right,5075.183996,23.93863949,0.0,,0
+patient_448,a1951f24-357f-11eb-8b7d-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,69.0,male,[],,5472.470226,74.395471,1.0,,0
+patient_1027,a195e1f5-357f-11eb-815e-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,17.0,male,['frontal'],left,2008.240593,18.91456637,0.0,,0
+patient_2793,a19741af-357f-11eb-b7ce-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,50.0,male,"['frontal', 'temporal']",left,1658.403749,344.9545988,0.0,,0
+patient_2311,a195e22d-357f-11eb-95fa-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,67.0,male,[],,7729.338321,172.8609804,1.0,,0
+patient_1474,a1951ef2-357f-11eb-afc3-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,70.0,male,[],,3085.212313,53.44073058,1.0,,0
+patient_1814,a1982c59-357f-11eb-9e4a-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,46.0,male,[],,6534.278599,441.0848048,0.0,,0
+patient_1946,a197dddb-357f-11eb-b654-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,84.0,female,[],,5322.414055,163.8963055,0.0,,0
+patient_2778,a1967e91-357f-11eb-baaa-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,69.0,male,['frontal'],left,2179.205521,22.12641237,0.0,,0
+patient_571,a1982c57-357f-11eb-b9f3-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,64.0,male,[],,6150.941155,175.2988645,0.0,,0
+patient_1098,a196a54b-357f-11eb-82ed-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,52.0,female,[],,2059.414226,90.29509346,1.0,,0
+patient_331,a1951ea4-357f-11eb-a591-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,54.0,female,['occipital'],right,2280.325263,71.12537964,0.0,,0
+patient_2552,a1980550-357f-11eb-ad65-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,71.0,male,[],,6052.459318,254.4415285,0.0,,0
+patient_1531,a19805c1-357f-11eb-9b43-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,62.0,male,[],,2789.27421,274.1544726,2.0,,0
+patient_65,a19741b5-357f-11eb-af91-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,57.0,male,['frontal'],left,5004.496561,195.6256715,0.0,,0
+patient_65,a197b6ab-357f-11eb-a35b-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,58.0,male,[],,2596.313081,244.4709017,1.0,,0
+patient_553,a195e255-357f-11eb-aed1-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,42.0,female,['frontal'],right,5892.668869,403.6985707,0.0,,0
+patient_1674,a1956d06-357f-11eb-856b-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,62.0,female,['temporal'],,7124.12732,105.8786524,0.0,,0
+patient_2250,a1956cf0-357f-11eb-ad40-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,46.0,female,[],,7555.954771,170.9810393,0.0,,0
+patient_2565,a19768b7-357f-11eb-9fbf-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,58.0,female,['temporal'],left,9535.02396,177.2227324,0.0,,0
+patient_2565,a1978fdb-357f-11eb-8d75-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,60.0,female,['temporal'],left,5251.599346,20.48652095,1.0,,0
+patient_1709,a19593d0-357f-11eb-9fea-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,37.0,female,[],,3751.818907,430.6188652,0.0,,0
+patient_2607,a195e217-357f-11eb-bd46-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,53.0,male,[],,1251.355483,211.5322174,1.0,,0
+patient_645,a1971a98-357f-11eb-9923-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,44.0,male,[],,1134.229693,244.5844979,1.0,,0
+patient_2533,a19656fb-357f-11eb-885d-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,53.0,male,[],,3693.870966,313.1013537,0.0,,0
+patient_1786,a1978fb7-357f-11eb-85f2-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,61.0,male,"['cerebral, NOS']",left,2319.510072,45.20739154,0.0,,0
+patient_864,a19805b8-357f-11eb-965e-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,52.0,female,['frontal'],left,6216.216843,302.2391347,0.0,,0
+patient_479,a196f366-357f-11eb-a4eb-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,55.0,male,[],,3948.314627,143.5149054,0.0,,0
+patient_2046,a1965756-357f-11eb-b1e0-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,71.0,female,['temporal'],left,3665.977299,32.11312848,0.0,,0
+patient_1445,a19593e1-357f-11eb-ad0e-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,52.0,female,[],,4586.894734,287.2636231,0.0,,0
+patient_2059,a1960947-357f-11eb-8838-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,78.0,male,['frontal'],right,3108.343473,187.3438392,0.0,,0
+patient_2059,a196099e-357f-11eb-96dd-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,78.0,male,['frontal'],right,5916.471753,14.1949465,1.0,,0
+patient_939,a1959427-357f-11eb-8e4e-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,71.0,female,[],,6128.98238,54.29808398,3.0,,0
+patient_2359,a1982c3d-357f-11eb-a1a2-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,77.0,male,"['occipital', 'temporal']",left,3899.854934,340.2436814,0.0,,0
+patient_116,a196a56b-357f-11eb-9fb1-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,75.0,male,"['cerebral, NOS']",right,3860.535503,21.29108771,0.0,,0
+patient_2395,a1978f93-357f-11eb-a0fe-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,41.0,female,[],,6093.68044,121.8357292,0.0,,0
+patient_2609,a1982cb7-357f-11eb-9973-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,63.0,female,[],,4420.344706,135.1514508,1.0,,0
+patient_1461,a196cc4e-357f-11eb-b56b-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,63.0,female,['frontal'],right,7387.796962,210.3752997,0.0,,0
+patient_2347,a196579a-357f-11eb-8fad-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,60.0,female,"['parietal', 'temporal']",left,4692.596152,43.44503413,0.0,,0
+patient_151,a197ddab-357f-11eb-9b1b-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,55.0,male,['third ventricle'],,4073.066857,139.103781,0.0,,0
+patient_575,a19656f6-357f-11eb-968c-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,65.0,male,[],,1902.578673,265.4854736,0.0,,0
+patient_626,a1982c18-357f-11eb-8053-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,55.0,male,"['cerebral, NOS']",left,8629.111898,250.1173963,0.0,,0
+patient_506,a198051e-357f-11eb-9e94-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,52.0,female,['frontal'],left,2066.950779,262.0488138,1.0,,0
+patient_356,a19657b9-357f-11eb-9fbf-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,55.0,male,[],,2667.637263,394.6106222,0.0,,0
+patient_907,a1971aa4-357f-11eb-ac81-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,58.0,female,[],,2951.489149,127.0057185,0.0,,0
+patient_1268,a1951f26-357f-11eb-869e-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,75.0,female,['frontal'],left,4506.142919,89.61855123,0.0,,0
+patient_2848,a19657a3-357f-11eb-af30-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,67.0,female,[],,2174.119813,99.64768212,0.0,,0
+patient_1566,a19805bc-357f-11eb-8e95-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,68.0,female,['frontal'],left,6512.564637,82.92063574,0.0,,0
+patient_2270,a1982cbd-357f-11eb-81a2-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,71.0,male,['temporal'],left,6733.587748,210.2544814,0.0,,0
+patient_167,a19804d7-357f-11eb-9743-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,62.0,female,"['cerebral, NOS']",left,5771.413609,120.0555093,0.0,,0
+patient_2213,a1956cd8-357f-11eb-b547-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,62.0,female,"['occipital', 'temporal']",left,3053.084764,113.5232156,1.0,,0
+patient_183,a196cc76-357f-11eb-b72c-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,44.0,male,['parietal'],right,3164.29255,171.697462,1.0,,0
+patient_183,a1971a80-357f-11eb-8e5c-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,43.0,male,"['cranial, NOS']",right,2885.382301,361.2044753,0.0,,0
+patient_2019,a1978fc3-357f-11eb-877d-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,73.0,female,['temporal'],left,3451.299838,250.6791761,0.0,,0
+patient_205,a195e235-357f-11eb-8350-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,63.0,male,['parietal'],right,1536.779747,181.5751415,0.0,,0
+patient_2452,a19768a0-357f-11eb-b12f-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,55.0,male,"['cerebral, NOS']",right,7083.457702,17.39870628,0.0,,0
+patient_254,a195e21c-357f-11eb-b93b-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,62.0,female,"['cerebral, NOS']",right,10854.19123,130.6182073,0.0,,0
+patient_107,a195e20d-357f-11eb-89f6-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,35.0,male,"['cerebral, NOS']",right,10535.45098,138.814181,0.0,,0
+patient_866,a1960931-357f-11eb-abad-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,64.0,female,['temporal'],right,4357.682754,296.5723007,0.0,,0
+patient_866,a1982c53-357f-11eb-a4f3-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,65.0,female,['temporal'],right,5280.441464,243.3340107,1.0,,0
+patient_0,a1965749-357f-11eb-801a-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,66.0,male,[],,3693.74249,24.09859384,0.0,,0
+patient_561,a1982c79-357f-11eb-af7c-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,76.0,male,['parietal'],left,3833.63176,121.8004308,0.0,,0
+patient_1138,a196098f-357f-11eb-b049-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,72.0,male,['occipital'],left,5767.552041,247.6848046,0.0,,0
+patient_1822,a1951ee4-357f-11eb-9d0b-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,58.0,male,[],,4562.31799,75.64049695,1.0,,0
+patient_2466,a1978ff9-357f-11eb-b368-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,62.0,male,['temporal'],right,3273.852856,128.9645621,0.0,,0
+patient_179,a196cc58-357f-11eb-b24a-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,64.0,male,[],,1376.956457,276.1125802,0.0,,0
+patient_1751,a1963008-357f-11eb-9e5e-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,76.0,male,"['temporal', 'insular']",right,3364.493379,338.5445807,0.0,,0
+patient_1257,a195bad4-357f-11eb-99ae-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,47.0,female,['occipital'],right,2112.757579,370.2332003,1.0,,0
+patient_1257,a1967e57-357f-11eb-b087-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,45.0,female,['occipital'],right,5521.326078,33.48126834,0.0,,0
+patient_943,a1960981-357f-11eb-a860-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,66.0,male,[],,2549.309,412.6443675,0.0,,0
+patient_2228,a19545c6-357f-11eb-8fa3-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,63.0,female,['parietal'],left,3542.087484,50.47673182,0.0,,0
+patient_2067,a19741bf-357f-11eb-a086-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,55.0,male,['parietal'],left,5672.43935,13.10723578,0.0,,0
+patient_1068,a19608e8-357f-11eb-ac12-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,62.0,female,[],,8040.798703,48.73010935,0.0,,0
+patient_2490,a1956d15-357f-11eb-af96-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,38.0,male,[],,2925.375306,203.3243388,0.0,,0
+patient_1099,a196098b-357f-11eb-bd9a-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,56.0,male,[],,1234.179792,140.6861473,2.0,,0
+patient_218,a197b6e3-357f-11eb-90e8-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,60.0,male,['temporal'],left,2068.754626,434.8659763,0.0,,0
+patient_1996,a1951ea1-357f-11eb-9e7b-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,73.0,female,[],,3626.87031,361.6567145,1.0,,0
+patient_1546,a19609cb-357f-11eb-b0b6-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,61.0,male,[],,5015.249402,63.88735122,1.0,,0
+patient_2580,a1960972-357f-11eb-bdf6-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,71.0,male,[],,2344.860471,239.785696,2.0,,0
+patient_1451,a1956cbc-357f-11eb-bfe1-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,64.0,male,['frontal'],right,2217.015637,174.8968269,0.0,,0
+patient_2638,a1971aa3-357f-11eb-8416-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,51.0,female,[],,3430.3832,203.1764265,0.0,,0
+patient_83,a196578b-357f-11eb-a121-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,48.0,male,['frontal'],left,7425.983355,36.54384706,0.0,,0
+patient_83,a196f392-357f-11eb-b88c-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,50.0,male,['temporal'],,1909.93457,363.3428134,1.0,,0
+patient_1815,a196095b-357f-11eb-8039-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,72.0,male,['occipital'],left,6597.343216,210.5708244,0.0,,0
+patient_2060,a1967e5a-357f-11eb-95d9-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,63.0,female,['frontal'],,2219.470118,101.695895,0.0,,0
+patient_1499,a1960973-357f-11eb-ab24-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,75.0,female,['parietal'],left,7294.396969,34.20776262,0.0,,0
+patient_1499,a1965738-357f-11eb-be9e-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,76.0,female,['parietal'],left,3472.433288,15.22448255,1.0,,0
+patient_1130,a1956cac-357f-11eb-aee6-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,66.0,male,['diencephalon'],right,6643.490135,14.26403864,0.0,,0
+patient_2650,a1963064-357f-11eb-bc18-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,85.0,male,[],,3395.986199,14.06513372,0.0,,0
+patient_2077,a1951ea2-357f-11eb-ba28-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,57.0,female,['temporal'],left,6695.902692,128.577436,0.0,,0
+patient_2077,a1960984-357f-11eb-a866-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,59.0,female,['temporal'],left,2224.934381,120.7873824,1.0,,0
+patient_2077,a19657b0-357f-11eb-af77-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,60.0,female,['temporal'],left,2151.62276,279.2464418,2.0,,0
+patient_2571,a196a56a-357f-11eb-90a9-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,73.0,male,[],,4544.249942,160.3877448,1.0,,0
+patient_2571,a19768c2-357f-11eb-a1c1-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,73.0,male,[],,5500.77274,18.78826937,0.0,,0
+patient_2801,a197dded-357f-11eb-83f2-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,38.0,female,[],,5977.967828,189.5507023,0.0,,0
+patient_2237,a19804c6-357f-11eb-8c2c-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,51.0,male,[],,3810.652635,175.3211494,2.0,,0
+patient_593,a196099b-357f-11eb-8cf7-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,45.0,male,[],,5064.013812,90.99560489,2.0,,0
+patient_1884,a19804bb-357f-11eb-9859-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,55.0,male,['parietal'],right,4312.280866,207.3250857,0.0,,0
+patient_2310,a195bb51-357f-11eb-9b14-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,48.0,male,[],,2810.534345,111.2514425,1.0,,0
+patient_8,a195e1cf-357f-11eb-a906-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,67.0,male,[],,1233.742678,175.4750029,0.0,,0
+patient_1947,a19545ed-357f-11eb-9ed0-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,66.0,male,[],,2593.183364,253.1756948,1.0,,0
+patient_216,a195e1f7-357f-11eb-b516-001a7dda7111,"Glioblastoma, IDH-wildtype",Adult-type diffuse gliomas,IV,,,0,54.0,female,[],,3284.635469,301.9199571,1.0,,0
+patient_111,a196577a-357f-11eb-9c8b-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,41.0,female,[],,2972.846411,151.9362044,0.0,,1
+patient_2522,a195bb10-357f-11eb-bdfd-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,49.0,female,['frontal'],left,8045.91206,308.6680517,0.0,,1
+patient_2611,a19593e5-357f-11eb-abd4-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,60.0,female,['sellar region'],,6249.362461,21.32009478,0.0,,1
+patient_1680,a1971adc-357f-11eb-a1da-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,78.0,female,"['posterior fossa, NOS']",right,6753.483314,203.9676321,0.0,,1
+patient_1664,a1965735-357f-11eb-9c40-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,66.0,female,"['cranial, NOS']",left,7576.18392,213.1443768,0.0,,1
+patient_2693,a195940c-357f-11eb-99cf-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,39.0,male,['cerebellar'],left,8944.04095,472.2322967,0.0,,1
+patient_606,a195bb45-357f-11eb-9c57-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,49.0,female,"['cranial, NOS']",right,11329.39262,14.25733978,0.0,,1
+patient_2544,a195baee-357f-11eb-a2df-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,78.0,male,[],,6325.416585,319.34703,0.0,,1
+patient_2475,a19741a5-357f-11eb-beb2-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,44.0,female,['cranial nerves'],left,6121.529416,284.909192,0.0,,1
+patient_761,a1967e86-357f-11eb-a8a1-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,48.0,male,['frontal'],left,4052.996069,269.5415888,0.0,,1
+patient_1294,a1971aca-357f-11eb-b706-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,50.0,female,[],,4943.432081,237.7332147,0.0,,1
+patient_1247,a195baf4-357f-11eb-9caf-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,76.0,male,['frontal'],,8846.358882,285.1287217,0.0,,1
+patient_1406,a1951ef7-357f-11eb-aae4-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,55.0,female,[],,9145.847868,392.6160868,0.0,,1
+patient_1962,a195bb3a-357f-11eb-b9e3-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,50.0,female,"['cerebral, NOS']",right,6441.033028,247.0842787,0.0,,1
+patient_77,a19804ce-357f-11eb-95e0-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,68.0,female,['spinal'],,9799.621492,71.80624278,0.0,,1
+patient_975,a1951ee5-357f-11eb-803f-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,72.0,female,"['cerebral, NOS']",right,6591.479522,352.691227,0.0,,1
+patient_1025,a19545a2-357f-11eb-911d-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,63.0,male,[],,3886.962112,26.36609184,0.0,,2
+patient_1383,a195e1dc-357f-11eb-be20-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,74.0,female,"['frontal', 'temporal']",,4906.786905,381.7722343,0.0,,2
+patient_1637,a197b6e6-357f-11eb-8501-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,43.0,female,"['cranial, NOS']",,3320.28263,114.9896086,0.0,,2
+patient_112,a1963041-357f-11eb-8eeb-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,51.0,female,['sellar region'],,851.3386282,379.9275509,1.0,,2
+patient_455,a1978ff2-357f-11eb-a06d-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,71.0,female,"['frontal', 'parietal']",left,5278.896842,159.435205,0.0,,2
+patient_415,a1971ab6-357f-11eb-b206-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,65.0,male,"['cranial, NOS']",right,5617.282917,6.587170442,0.0,,2
+patient_233,a1980509-357f-11eb-b170-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,84.0,female,['parietal'],left,10624.37705,229.5446584,0.0,,2
+patient_1572,a196cc6d-357f-11eb-b680-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,64.0,female,['cerebellar'],left,4506.009659,295.6212039,0.0,,2
+patient_1135,a19805bf-357f-11eb-90ad-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,63.0,female,['frontal'],right,8802.391723,71.77549237,0.0,,2
+patient_1735,a196cc87-357f-11eb-92a5-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,67.0,male,['parietal'],right,8521.719557,266.145346,1.0,,2
+patient_502,a19741e3-357f-11eb-8700-001a7dda7111,Anaplastic meningioma,Meningiomas,III,,,0,52.0,male,[],,9642.540655,167.6093529,1.0,,2
+patient_502,a197de23-357f-11eb-9bf1-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,52.0,male,['cerebellar'],,6842.100666,350.4458816,0.0,,19
+patient_725,a19657b1-357f-11eb-81f4-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,gonadotroph,,0,72.0,male,['sellar region'],,8546.950709,178.2636933,0.0,,3
+patient_2431,a195940b-357f-11eb-b92d-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,63.0,female,['sellar region'],,5436.474195,95.90057476,0.0,,3
+patient_852,a196a579-357f-11eb-8947-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,66.0,female,[],,6304.354368,106.0238624,0.0,,3
+patient_511,a19741a7-357f-11eb-82d3-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,54.0,male,['sellar region'],,7144.117268,223.7862202,0.0,,3
+patient_928,a1982ca7-357f-11eb-8275-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,Null cell,,0,75.0,male,['sellar region'],,9578.137101,24.90212841,0.0,,3
+patient_1890,a19741b0-357f-11eb-a0a7-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,56.0,male,['sellar region'],,7084.846051,16.87898356,0.0,,3
+patient_707,a1962feb-357f-11eb-8880-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,20.0,female,['sellar region'],,8147.474744,24.59719193,0.0,,3
+patient_2023,a19804b7-357f-11eb-92ee-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,61.0,female,['sellar region'],right,10628.77836,99.80187415,0.0,,3
+patient_859,a19593c4-357f-11eb-910e-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,60.0,female,['sellar region'],,3976.571908,41.49025941,0.0,,3
+patient_605,a1982bea-357f-11eb-b5b8-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,16.0,male,['sellar region'],,7345.328463,9.533270071,0.0,,3
+patient_2639,a1951ed6-357f-11eb-b600-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,50.0,female,['sellar region'],,7445.51053,11.04262759,0.0,,3
+patient_2284,a196300f-357f-11eb-9ecf-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,53.0,male,['sellar region'],,5931.456943,184.5057649,0.0,,3
+patient_2188,a195badf-357f-11eb-b3a5-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,65.0,female,['sellar region'],,7986.971003,30.25477367,0.0,,3
+patient_345,a1982cae-357f-11eb-ae90-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,59.0,male,['sellar region'],,5561.390603,17.98201334,1.0,,3
+patient_2520,a1962ff3-357f-11eb-b404-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,35.0,female,['sellar region'],,9022.278945,13.40393051,0.0,,3
+patient_2560,a19768a3-357f-11eb-82e8-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,39.0,female,['sellar region'],,9777.002802,8.558144218,0.0,,3
+patient_2334,a196a55c-357f-11eb-bef2-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,61.0,female,['sellar region'],,8308.390379,152.6259531,1.0,,3
+patient_120,a1959411-357f-11eb-9863-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,68.0,male,['sellar region'],,6477.823242,43.30605969,1.0,,3
+patient_120,a1963084-357f-11eb-8bad-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,68.0,male,['sellar region'],,7455.127556,8.755987005,0.0,,3
+patient_2648,a1951e8a-357f-11eb-9dd2-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,37.0,male,['sellar region'],,7618.153402,33.65487494,0.0,,3
+patient_1898,a19608f1-357f-11eb-bda6-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,Null cell,,0,71.0,male,['sellar region'],,6648.704526,20.25913461,0.0,,3
+patient_2169,a197b6bb-357f-11eb-bb79-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,30.0,male,['sellar region'],,10605.87778,9.962588877,0.0,,3
+patient_2505,a19741f6-357f-11eb-a555-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,55.0,male,[],,4907.826062,36.67224505,1.0,,3
+patient_471,a198058a-357f-11eb-b143-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,51.0,male,['sellar region'],,10046.50241,31.35787831,1.0,,3
+patient_121,a19545a1-357f-11eb-a24d-001a7dda7111,Pituitary adenoma,Tumours of the sellar region,,,,0,78.0,male,[],,6479.167937,197.7386622,0.0,,3
+patient_1269,a1982c9e-357f-11eb-9306-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,28.0,male,['frontal'],right,3189.627318,22.87696734,0.0,,4
+patient_1820,a196096e-357f-11eb-8137-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,47.0,female,[],,2547.796514,176.1212081,1.0,,4
+patient_2346,a1960900-357f-11eb-82fc-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,64.0,male,"['frontal', 'insular']",,986.4688001,21.06807635,0.0,,4
+patient_2615,a1965751-357f-11eb-909f-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,12.0,female,[],,3034.81818,388.8308722,0.0,,4
+patient_10,a195bacf-357f-11eb-ae3d-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,71.0,male,['insular'],left,4884.399092,7.897798536,1.0,,4
+patient_10,a196a55e-357f-11eb-8adc-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,70.0,male,['basal ganglia'],left,10617.59131,3.679553945,0.0,,4
+patient_1466,a1967e6e-357f-11eb-bf4e-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,44.0,male,[],,2844.975782,35.08571167,0.0,,4
+patient_371,a19609b5-357f-11eb-8ac5-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,31.0,male,['insular'],left,1843.615719,176.2726346,0.0,,4
+patient_2504,a1956d11-357f-11eb-bf6c-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,63.0,female,['frontal'],,4020.451816,25.60135147,0.0,,4
+patient_1000,a19768b8-357f-11eb-8018-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,28.0,female,['frontal'],left,3843.293095,179.9625953,0.0,,4
+patient_2403,a196307b-357f-11eb-9a77-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,43.0,male,[],,2384.895725,140.5809891,0.0,,4
+patient_2174,a196a5a1-357f-11eb-8c10-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,41.0,female,[],,2050.254574,226.4713884,2.0,,4
+patient_2476,a1982c85-357f-11eb-8ce6-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,47.0,female,['frontal'],right,6199.670884,68.45040776,0.0,,4
+patient_2150,a1963081-357f-11eb-aaf3-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,,female,[],,3518.817109,32.20656161,0.0,,4
+patient_989,a197ddb5-357f-11eb-82b4-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,57.0,female,"['frontal', 'temporal']",right,7715.825236,174.598304,0.0,,4
+patient_2087,a195bac7-357f-11eb-bfc8-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,66.0,female,[],,3002.116176,218.3786241,0.0,,4
+patient_2040,a196a5b5-357f-11eb-967b-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,,female,[],,3044.786181,227.2868959,0.0,,4
+patient_2241,a19545c7-357f-11eb-b08b-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,25.0,female,['frontal'],right,5393.145948,135.2985821,0.0,,4
+patient_2389,a1978fd9-357f-11eb-a380-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,37.0,female,[],,6548.660963,40.54981645,0.0,,4
+patient_769,a19545d5-357f-11eb-8d11-001a7dda7111,Haemangioma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,76.0,male,"['cranial, NOS']",right,1149.689771,270.9678801,0.0,,5
+patient_335,a1980592-357f-11eb-8323-001a7dda7111,Haemangioma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,52.0,male,['cranial nerves'],right,3625.821002,144.6748198,0.0,,5
+patient_1006,a1963067-357f-11eb-a3d4-001a7dda7111,Haemangioma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,51.0,female,"['cranial, NOS']",right,3268.196693,146.6619194,0.0,,5
+patient_11,a197b6e4-357f-11eb-9886-001a7dda7111,Haemangioma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,0.25,female,"['cranial, NOS']",,4959.334979,67.4449299,0.0,,5
+patient_897,a1965721-357f-11eb-b5d0-001a7dda7111,Haemangioma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,57.0,female,"['cranial, NOS']",right,1414.137401,92.59566992,0.0,,5
+patient_1079,a196300a-357f-11eb-bfdd-001a7dda7111,Haemangioma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,37.0,female,['frontal'],left,657.2794703,196.3883034,0.0,,5
+patient_885,a197de2a-357f-11eb-bdf2-001a7dda7111,Haemangioma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,46.0,male,[],,1329.077133,239.4706763,0.0,,5
+patient_927,a1971ab1-357f-11eb-8e43-001a7dda7111,Haemangioma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,38.0,male,"['cranial, NOS']",,3225.140275,142.1842031,0.0,,5
+patient_1396,a1982c17-357f-11eb-b7f9-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,43.0,male,"['parietal', 'temporal']",right,4346.985571,114.5011852,0.0,,6
+patient_1120,a196307e-357f-11eb-8efa-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,34.0,female,[],,2301.808432,42.15554981,0.0,,6
+patient_108,a1951eda-357f-11eb-bdf7-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,40.0,female,['parietal'],right,3432.370742,34.63262245,0.0,,6
+patient_2703,a196cc4d-357f-11eb-aef5-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,11.0,female,[],,4244.262581,163.8531987,0.0,,6
+patient_98,a196f386-357f-11eb-8150-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,17.0,male,['frontal'],left,1503.705518,147.2681967,0.0,,6
+patient_2810,a195baf0-357f-11eb-9f46-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,58.0,male,[],,1731.246089,108.0747568,0.0,,6
+patient_12,a1982c0b-357f-11eb-93b0-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,54.0,male,[],,1992.478029,231.106187,0.0,,6
+patient_1523,a1980549-357f-11eb-9e3e-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,4.0,male,['frontal'],right,1627.478929,181.423547,0.0,,6
+patient_2713,a19593e3-357f-11eb-b0fb-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,19.0,male,[],,1926.397752,82.89253859,0.0,,6
+patient_242,a194f785-357f-11eb-b9b3-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,50.0,male,['temporal'],right,1640.252854,121.7513505,0.0,,6
+patient_2745,a1960993-357f-11eb-a804-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,19.0,male,[],,2632.839633,179.9160093,0.0,,6
+patient_299,a1956cb1-357f-11eb-977b-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,14.0,male,['temporal'],right,2394.439041,260.6681521,0.0,,6
+patient_2529,a19657b3-357f-11eb-8045-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,14.0,female,"['occipital', 'temporal']",,2128.829901,3.268931913,0.0,,6
+patient_450,a198055d-357f-11eb-b5c8-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,61.0,female,['frontal'],left,1746.932826,243.5365537,0.0,,6
+patient_149,a1974208-357f-11eb-b8d0-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,38.0,female,[],,2938.65098,74.50051112,0.0,,6
+patient_505,a195bb25-357f-11eb-93e7-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,27.0,male,['temporal'],right,4933.486512,198.6193735,0.0,,6
+patient_1221,a196f36c-357f-11eb-90a0-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,36.0,male,['brain stem'],,2720.083061,46.93128745,0.0,,6
+patient_723,a1967e7f-357f-11eb-b10f-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,2.666666667,male,['occipital'],left,3224.874044,228.5416392,0.0,,6
+patient_1703,a19545be-357f-11eb-a2aa-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,12.0,female,"['occipital', 'temporal']",right,4366.484056,15.65470047,1.0,,6
+patient_79,a19804f1-357f-11eb-815c-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,47.0,male,"['posterior fossa, NOS']",,1768.120061,137.1015494,0.0,,6
+patient_2879,a1982caa-357f-11eb-8f04-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,31.0,female,['occipital'],left,3712.557107,149.4797209,0.0,,6
+patient_616,a1954600-357f-11eb-932a-001a7dda7111,Ganglioglioma,Glioneuronal and neuronal tumours,I,,,0,24.0,female,['occipital'],right,3269.371655,44.56085614,0.0,,6
+patient_44,a19741c5-357f-11eb-b73d-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,27.0,female,['cranial nerves'],right,6072.542751,73.45489662,0.0,,7
+patient_379,a1971aac-357f-11eb-9e67-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,69.0,female,['cranial nerves'],right,3210.810118,29.70216129,0.0,,7
+patient_1923,a19545d9-357f-11eb-8691-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,58.0,male,['spinal'],,4802.926943,267.7621407,0.0,,7
+patient_213,a1956ce3-357f-11eb-bb5b-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,40.0,female,['cranial nerves'],right,6370.531435,17.47295357,0.0,,7
+patient_2538,a195e1dd-357f-11eb-a5a8-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,73.0,female,['cranial nerves'],right,3768.642933,148.4818302,0.0,,7
+patient_2304,a196a585-357f-11eb-acf7-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,54.0,female,['spinal'],,7915.927561,54.63718518,0.0,,7
+patient_668,a1982c47-357f-11eb-aea9-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,73.0,male,['cranial nerves'],,7380.028895,60.5772696,0.0,,7
+patient_2636,a196a5c3-357f-11eb-99c2-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,45.0,female,"['cranial, NOS']",left,8607.682943,3.532309473,0.0,,7
+patient_366,a197dde7-357f-11eb-8b72-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,40.0,female,['cranial nerves'],,4423.794595,228.0279923,0.0,,7
+patient_1372,a196579d-357f-11eb-9585-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,66.0,male,['spinal'],right,1463.743249,206.2697814,0.0,,7
+patient_1141,a19657cd-357f-11eb-8421-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,56.0,male,"['cranial, NOS']",right,6276.987447,20.45678776,0.0,,7
+patient_2815,a195bac6-357f-11eb-878f-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,51.0,female,['cranial nerves'],,5041.043429,165.0832832,1.0,,7
+patient_1298,a197de21-357f-11eb-9b87-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,52.0,female,['cranial nerves'],right,4938.752664,79.29127588,0.0,,7
+patient_411,a1960994-357f-11eb-aca2-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,37.0,female,['spinal'],,7406.970527,148.4727118,0.0,,7
+patient_1346,a1965757-357f-11eb-ad4c-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,62.0,female,['cranial nerves'],left,5728.009997,85.16919492,0.0,,7
+patient_2340,a1956ce2-357f-11eb-8031-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,41.0,male,['cranial nerves'],left,11105.02084,124.9521293,0.0,,7
+patient_243,a19768ab-357f-11eb-8461-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,62.0,male,['spinal'],,6574.723338,84.16673547,0.0,,7
+patient_640,a19593ed-357f-11eb-83b1-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,73.0,male,['cranial nerves'],,7944.977523,116.577674,0.0,,7
+patient_1549,a1960901-357f-11eb-9c62-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,50.0,male,['spinal'],left,2191.278593,137.1126432,0.0,,7
+patient_698,a19741f4-357f-11eb-b31b-001a7dda7111,Schwannoma,Cranial and paraspinal nerve tumours,I,,,0,75.0,male,['cranial nerves'],,4863.971918,220.5976963,0.0,,7
+patient_1118,a19545c0-357f-11eb-a5db-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,56.0,male,['frontal'],,1660.562611,94.82749941,1.0,,8
+patient_1118,a19768cd-357f-11eb-9458-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,52.0,male,[],,6913.817266,192.0355932,0.0,,8
+patient_234,a1982c1e-357f-11eb-b208-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,39.0,male,"['parietal', 'temporal']",right,3586.995478,8.669372512,0.0,,8
+patient_76,a1951e91-357f-11eb-b9dd-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,58.0,female,['frontal'],right,7282.815186,3.810614342,0.0,,8
+patient_2443,a1982c7b-357f-11eb-a670-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,31.0,female,['frontal'],right,4334.716341,14.21107984,1.0,,8
+patient_984,a197ddfd-357f-11eb-836d-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,34.0,male,[],,4847.606937,289.0640719,0.0,,8
+patient_2543,a1967e4a-357f-11eb-a17c-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,60.0,male,['occipital'],right,2544.472709,27.1089565,0.0,,8
+patient_1189,a1982c6b-357f-11eb-9310-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,59.0,male,['frontal'],right,4175.521937,156.5227078,2.0,,8
+patient_2874,a19741b1-357f-11eb-9d32-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,67.0,female,"['frontal', 'parietal', 'temporal']",right,6585.516829,237.7256092,3.0,,8
+patient_2874,a1967e67-357f-11eb-a8be-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,64.0,female,"['frontal', 'temporal']",right,3289.573066,256.98502,2.0,,4
+patient_1537,a198057e-357f-11eb-9864-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,78.0,female,[],,2683.494343,227.5339247,0.0,,8
+patient_597,a198059c-357f-11eb-8021-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,61.0,male,[],,5664.437066,271.1603964,1.0,,8
+patient_147,a1978f87-357f-11eb-a068-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,57.0,male,['frontal'],left,2623.788946,68.87177426,0.0,,8
+patient_296,a1965716-357f-11eb-be58-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,48.0,male,[],,7081.25902,177.8247338,0.0,,8
+patient_279,a1982c83-357f-11eb-9d09-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,64.0,male,[],,3911.884987,384.3364529,1.0,,8
+patient_1639,a1963026-357f-11eb-8f23-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,31.0,male,['frontal'],left,3123.185525,103.9621237,0.0,,8
+patient_1218,a195e278-357f-11eb-9a52-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,48.0,male,['insular'],,3238.753667,157.5504198,1.0,,8
+patient_1846,a1967e42-357f-11eb-89ea-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,76.0,male,[],,5632.979779,113.6902714,1.0,,8
+patient_2785,a1951e94-357f-11eb-ba5a-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,45.0,male,[],,5250.009593,358.0913457,0.0,,8
+patient_2116,a19609bf-357f-11eb-a7de-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,52.0,male,['temporal'],,1937.281604,277.1672424,0.0,,8
+patient_1482,a19545fa-357f-11eb-96de-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,33.0,female,['frontal'],left,3483.719076,68.95045059,1.0,,8
+patient_2156,a1960936-357f-11eb-98e1-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,66.0,female,['frontal'],left,6192.050078,5.977987829,0.0,,8
+patient_753,a1963050-357f-11eb-8281-001a7dda7111,"Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,III,,,0,42.0,male,['temporal'],,2523.068431,358.1024553,1.0,,8
+patient_753,a19768d7-357f-11eb-a991-001a7dda7111,"Oligodendroglioma, IDH-mutant and 1p/19q codeleted",Adult-type diffuse gliomas,II,,,0,31.0,male,['insular'],left,3992.813013,75.19235162,0.0,,4
+patient_838,a19741b9-357f-11eb-a4d9-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,67.0,male,[],,1817.114657,19.00485468,0.0,,9
+patient_802,a195bade-357f-11eb-96cc-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,64.0,female,"['cerebral, NOS']",,7518.901398,25.67250051,0.0,"Diffuse astrocytic glioma, IDH-wildtype, with molecular features of glioblastoma, WHO grade IV (cIMPACT-NOW)",9
+patient_940,a1967e6a-357f-11eb-94da-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,73.0,male,"['frontal', 'temporal', 'insular']",right,3346.030257,27.11601302,0.0,,9
+patient_1918,a195bb38-357f-11eb-9fc4-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,68.0,male,[],,6869.138449,1.61519528,1.0,,9
+patient_1631,a1982c5b-357f-11eb-a525-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,58.0,male,[],,5837.448526,134.5586169,0.0,,9
+patient_1541,a19852e0-357f-11eb-8105-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,68.0,male,['insular'],,2766.360096,12.01253591,0.0,,9
+patient_1144,a19804d4-357f-11eb-80ac-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,12.0,female,['brain stem'],,10399.64096,4.936612735,0.0,"Diffuse astrocytic glioma, IDH-wildtype, with molecular features of glioblastoma, WHO grade IV (cIMPACT-NOW)",9
+patient_646,a195e20c-357f-11eb-a759-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,73.0,male,[],,6862.930932,66.1526401,0.0,,9
+patient_2145,a196a54e-357f-11eb-99e3-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,72.0,male,[],,6335.829559,12.3748594,0.0,"Diffuse astrocytic glioma, IDH-wildtype, with molecular features of glioblastoma, WHO grade IV (cIMPACT-NOW)",9
+patient_1960,a194f795-357f-11eb-b390-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,52.0,male,['diencephalon'],bilateral,7000.288668,5.787761322,0.0,,9
+patient_1986,a194f797-357f-11eb-ab01-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,14.0,male,['temporal'],left,3923.848032,9.554906228,0.0,,9
+patient_1394,a1980576-357f-11eb-95da-001a7dda7111,"Anaplastic astrocytoma, IDH-wildtype",Adult-type diffuse gliomas,III,,,0,50.0,female,[],,1282.077865,15.33994193,1.0,,9
+patient_2596,a19545dd-357f-11eb-9d10-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,,,[],,4896.525274,3.442849584,0.0,,10
+patient_203,a1982c3c-357f-11eb-9e82-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,10.0,male,['cerebellar'],,3609.916094,395.4357838,0.0,,10
+patient_1169,a19657a5-357f-11eb-8152-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,4.0,male,['cerebellar'],right,3534.109059,43.95393504,0.0,,10
+patient_1171,a1956cb0-357f-11eb-bdde-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,31.0,female,['brain stem'],,1110.082204,352.6873943,0.0,,10
+patient_1347,a197b711-357f-11eb-8194-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,11.0,male,['diencephalon'],left,3767.820929,205.0697245,0.0,,10
+patient_800,a1982c97-357f-11eb-881a-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,7.0,male,['cerebellar'],left,4650.171363,279.6471137,0.0,,10
+patient_735,a19608f8-357f-11eb-a596-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,,,[],,2118.057638,314.6184448,0.0,,10
+patient_1539,a1962ff9-357f-11eb-95f7-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,15.0,male,['fourth ventricle'],,2159.098868,64.24115266,0.0,,10
+patient_1539,a197ddb1-357f-11eb-a3a9-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,15.0,male,"['brain stem', 'fourth ventricle']",,3346.048576,82.90704504,0.0,,10
+patient_1316,a1980582-357f-11eb-8513-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,14.0,female,"['diencephalon', 'third ventricle']",,3766.736034,1.742357293,0.0,,10
+patient_842,a19657a6-357f-11eb-81d1-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,21.0,male,['temporal'],left,3851.651069,31.79208028,0.0,,10
+patient_860,a195e1d9-357f-11eb-947e-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,,,[],,1679.061983,4.998028712,0.0,,10
+patient_1686,a1980598-357f-11eb-8082-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,14.0,female,['brain stem'],,7579.0509,65.89796092,0.0,,10
+patient_1635,a195e23c-357f-11eb-9b1b-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,11.0,female,"['posterior fossa, NOS']",,3350.408798,56.2486584,1.0,,10
+patient_619,a195942c-357f-11eb-b181-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,,,"['posterior fossa, NOS']",,729.7143844,33.16777155,0.0,,10
+patient_470,a19545a3-357f-11eb-9197-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,12.0,female,"['posterior fossa, NOS']",,3098.429673,118.005583,0.0,,10
+patient_690,a1951f1a-357f-11eb-b1fd-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,7.0,male,['cerebellar'],right,5453.037652,37.77912664,0.0,,10
+patient_2083,a198050c-357f-11eb-9c2e-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,9.0,male,['cerebellar'],right,5256.48612,79.0760197,0.0,,10
+patient_2568,a197b703-357f-11eb-88eb-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,,,"['posterior fossa, NOS']",,2384.974267,61.23336507,0.0,,10
+patient_2038,a1951ee2-357f-11eb-b1ed-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,8.0,male,"['posterior fossa, NOS']",,871.4883283,65.83909174,0.0,,10
+patient_348,a196094a-357f-11eb-8145-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,51.0,female,[],,4221.715658,64.73245053,0.0,,10
+patient_978,a19545af-357f-11eb-b028-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,7.0,female,['cerebellar'],left,4018.125436,58.40932637,0.0,,10
+patient_2265,a19741fe-357f-11eb-950e-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,40.0,female,['cerebellar'],,2813.27292,164.5634865,0.0,,10
+patient_1250,a195e277-357f-11eb-894f-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,12.0,male,"['occipital', 'temporal']",left,3566.322795,125.558741,0.0,,10
+patient_240,a196cc6e-357f-11eb-9c45-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,2.166666667,male,[],,3557.002626,245.3905976,0.0,,10
+patient_1475,a196f3a1-357f-11eb-9dbc-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,11.0,female,['diencephalon'],,4491.461384,14.40043551,0.0,,10
+patient_942,a1982c89-357f-11eb-8d3b-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,18.0,male,"['cranial, NOS']",right,2971.519646,14.29066776,0.0,,10
+patient_2827,a19545dc-357f-11eb-824f-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,14.0,male,"['posterior fossa, NOS']",left,4394.462237,124.087538,0.0,,10
+patient_2531,a19609c5-357f-11eb-9ae7-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,4.0,male,['fourth ventricle'],,5385.751554,57.32607546,0.0,,10
+patient_2790,a196575b-357f-11eb-aecb-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,,,[],,1327.709082,9.63012167,0.0,,10
+patient_63,a195bb06-357f-11eb-a923-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,,,[],,7137.892806,9.687172654,0.0,,10
+patient_2119,a19593e6-357f-11eb-a112-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,11.0,male,[],,3641.834133,243.7153828,2.0,,10
+patient_2119,a19804fa-357f-11eb-8f47-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,8.0,male,[],,656.198336,3.145390482,1.0,,10
+patient_492,a196cc8b-357f-11eb-a7ae-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,2.916666667,male,['fourth ventricle'],,2941.607898,15.14035913,0.0,,10
+patient_369,a1963017-357f-11eb-a640-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,8.0,female,[],,3190.561496,318.6993892,0.0,,10
+patient_2751,a197ddc8-357f-11eb-bc48-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,12.0,female,['cerebellar'],,3079.972866,217.027886,0.0,,10
+patient_1757,a19804e1-357f-11eb-aa98-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,21.0,female,['parietal'],left,3258.559909,76.50097188,0.0,,10
+patient_323,a1971a97-357f-11eb-89d4-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,7.0,male,['cerebellar'],left,1766.77279,141.4171655,0.0,,10
+patient_558,a1971ac5-357f-11eb-9909-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,,,[],,5086.106283,12.33359991,0.0,,10
+patient_437,a197dddc-357f-11eb-a0f1-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,5.0,female,['brain stem'],,2551.934552,21.82383555,0.0,,10
+patient_2696,a1965758-357f-11eb-8adc-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,5.0,male,['cerebellar'],,1380.46873,36.54555796,0.0,,10
+patient_25,a196a5ba-357f-11eb-be11-001a7dda7111,Pilocytic astrocytoma,Circumscribed astrocytic gliomas ,I,,,0,,,[],,2813.426414,35.2232422,0.0,,10
+patient_661,a1980539-357f-11eb-b3cd-001a7dda7111,Angiomatous meningioma,Meningiomas,I,,,0,51.0,male,"['cerebral, NOS']",right,3545.543391,215.4188839,0.0,,11
+patient_679,a1951e99-357f-11eb-b4c5-001a7dda7111,Angiomatous meningioma,Meningiomas,I,,,0,65.0,male,"['parietal', 'temporal']",left,3931.19162,69.30392266,0.0,,11
+patient_115,a1982be4-357f-11eb-aa19-001a7dda7111,Angiomatous meningioma,Meningiomas,I,,,0,54.0,female,['cranial nerves'],,7945.942266,125.178609,0.0,,11
+patient_2297,a197ddad-357f-11eb-b220-001a7dda7111,Angiomatous meningioma,Meningiomas,I,,,0,79.0,female,"['cerebral, NOS']",left,3363.347491,173.9626969,0.0,,11
+patient_1065,a1982c31-357f-11eb-aa7d-001a7dda7111,Angiomatous meningioma,Meningiomas,I,,,0,47.0,female,['frontal'],,5928.983044,166.8535721,0.0,,11
+patient_2412,a196cc63-357f-11eb-b00e-001a7dda7111,Angiomatous meningioma,Meningiomas,I,,,0,48.0,female,[],,7974.819155,250.8322711,0.0,,11
+patient_1479,a1959447-357f-11eb-b566-001a7dda7111,Angiomatous meningioma,Meningiomas,I,,Microcystic meningioma,0,43.0,male,['occipital'],left,3788.683004,320.4269132,0.0,,11
+patient_2320,a1967ea4-357f-11eb-ad61-001a7dda7111,Angiomatous meningioma,Meningiomas,I,,,0,65.0,female,"['cranial, NOS']",right,5325.159375,205.0124556,0.0,,11
+patient_2396,a196f381-357f-11eb-b687-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,65.0,male,"['posterior fossa, NOS']",right,3628.048399,298.2895709,0.0,,12
+patient_836,a1960941-357f-11eb-bf8c-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,61.0,female,['cerebellar'],,7030.128299,197.8746249,0.0,,12
+patient_363,a1982c5e-357f-11eb-b2d5-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,40.0,female,['cerebellar'],left,4792.412362,160.6284981,0.0,,12
+patient_1007,a197b6d1-357f-11eb-9919-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,48.0,female,['cerebellar'],right,4863.311028,4.279800301,0.0,,12
+patient_2747,a19768ad-357f-11eb-9cae-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,73.0,female,['cerebellar'],right,2557.194781,192.2442528,0.0,,12
+patient_1967,a19657d6-357f-11eb-a346-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,46.0,female,[],,5286.377517,77.22736386,0.0,,12
+patient_1253,a197de22-357f-11eb-b78d-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,71.0,female,['cerebellar'],left,6492.992349,339.3751111,0.0,,12
+patient_688,a1982c09-357f-11eb-acc8-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,48.0,male,['occipital'],,2092.590682,21.2459132,0.0,,12
+patient_2710,a1959437-357f-11eb-9777-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,65.0,female,['cerebellar'],left,3774.018916,26.33134656,0.0,,12
+patient_741,a196a52d-357f-11eb-ab02-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,59.0,female,['spinal'],,8424.881083,262.6794346,0.0,,12
+patient_286,a19741a6-357f-11eb-9ab0-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,47.0,male,['cerebellar'],right,3779.682655,184.8393275,0.0,,12
+patient_141,a195bae5-357f-11eb-b9a5-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,67.0,male,['spinal'],,4659.839829,59.9771688,1.0,,12
+patient_141,a1982cb5-357f-11eb-97eb-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,68.0,male,[],,7898.272532,5.598692603,2.0,,12
+patient_2739,a1967e9b-357f-11eb-99cf-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,36.0,female,['cerebellar'],,5583.197276,6.646729135,0.0,,12
+patient_315,a19593d1-357f-11eb-a022-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,45.0,male,['cerebellar'],right,4059.89391,15.58956992,0.0,,12
+patient_1222,a1982c69-357f-11eb-9cf9-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,53.0,male,"['posterior fossa, NOS']",left,4754.243505,173.2437556,1.0,,12
+patient_2824,a1971ac9-357f-11eb-bd7d-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,63.0,female,['cerebellar'],left,4327.078459,274.2240547,1.0,,12
+patient_569,a1951e96-357f-11eb-82ee-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,25.0,female,['cerebellar'],,8576.420294,56.40231978,0.0,,12
+patient_569,a1960995-357f-11eb-bc2c-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,25.0,female,['spinal'],,7542.48054,50.63108854,0.0,,12
+patient_569,a19741db-357f-11eb-bc4c-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,24.0,female,['spinal'],,9660.092359,113.8768615,0.0,,12
+patient_2394,a196f3c8-357f-11eb-9bc0-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,45.0,female,[],,4449.463704,72.19881347,0.0,,12
+patient_290,a1962ff7-357f-11eb-a42b-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,56.0,male,"['posterior fossa, NOS']",,3116.281318,41.67852216,0.0,,12
+patient_533,a19657bf-357f-11eb-9794-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,54.0,female,['cerebellar'],,4218.016684,143.0826488,1.0,,12
+patient_533,a1971a8d-357f-11eb-bfc4-001a7dda7111,Haemangioblastoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,59.0,female,[],,6283.952896,192.0529991,2.0,,12
+patient_1555,a1956d0a-357f-11eb-9014-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,80.0,female,[],,7733.412751,343.3852667,1.0,,13
+patient_1872,a1951f29-357f-11eb-a083-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,54.0,male,['temporal'],left,4172.103529,183.0990038,1.0,,13
+patient_252,a195943e-357f-11eb-82f8-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,25.0,female,"['frontal', 'temporal']",left,7273.395957,81.78201813,0.0,,13
+patient_2832,a196a573-357f-11eb-9eec-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,44.0,male,[],,4159.638183,510.673262,2.0,,13
+patient_1403,a1978fd1-357f-11eb-b7ee-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,74.0,male,[],,4211.123039,292.0209143,0.0,,13
+patient_1080,a19593f0-357f-11eb-bb0f-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,59.0,female,"['parietal', 'temporal']",,7088.522578,51.7315133,1.0,,13
+patient_1080,a195e228-357f-11eb-be1b-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,59.0,female,['occipital'],right,7066.541314,192.2272778,2.0,,13
+patient_1080,a19852e6-357f-11eb-9151-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,58.0,female,"['occipital', 'temporal']",right,6115.859047,162.1602121,0.0,,13
+patient_2508,a19609ab-357f-11eb-a897-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,61.0,female,['frontal'],left,9145.825598,151.2950346,0.0,,13
+patient_311,a195e1da-357f-11eb-88ac-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,40.0,male,['temporal'],,4492.514522,308.0960547,0.0,,13
+patient_839,a196576f-357f-11eb-9094-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,62.0,male,['temporal'],,3522.637367,206.2502961,0.0,,13
+patient_32,a195bad2-357f-11eb-bb9e-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,56.0,male,"['frontal', 'temporal']",right,3474.835751,261.9577054,1.0,,13
+patient_35,a194f798-357f-11eb-bf26-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,9.0,male,['parietal'],left,4534.648496,210.6414644,0.0,,13
+patient_35,a1982c1b-357f-11eb-bcba-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,10.0,male,['frontal'],left,5785.525091,132.7533781,1.0,,13
+patient_1900,a1951ec4-357f-11eb-87d3-001a7dda7111,Gliosarcoma,Adult-type diffuse gliomas,IV,,,0,44.0,male,[],,3139.053542,379.7319746,1.0,,13
+patient_1020,a1967e7d-357f-11eb-85a6-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,19.0,female,"['cranial, NOS']",,4532.40802,80.78178275,0.0,,14
+patient_771,a196f385-357f-11eb-8694-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,32.0,female,[],,4672.573137,326.1222362,0.0,,14
+patient_2225,a1967e8b-357f-11eb-8069-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,49.0,male,['third ventricle'],,7444.995221,63.7930564,0.0,,14
+patient_2554,a197b6f9-357f-11eb-94d8-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,67.0,male,['third ventricle'],,8335.990264,45.54611846,0.0,,14
+patient_811,a1980575-357f-11eb-a6cb-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,14.0,female,['sellar region'],,6956.216431,22.17886714,0.0,,14
+patient_210,a1971ad7-357f-11eb-9d9f-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,57.0,male,['third ventricle'],,7050.215082,95.596658,1.0,,14
+patient_210,a19609a6-357f-11eb-9a6b-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,55.0,male,['sellar region'],,7551.547247,86.16525577,0.0,,14
+patient_378,a198058e-357f-11eb-ac01-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,65.0,female,['third ventricle'],,5333.057552,222.9192144,0.0,,14
+patient_2789,a195e25c-357f-11eb-b9d0-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,68.0,male,['sellar region'],,3771.097276,2.999922615,0.0,,14
+patient_2238,a1951ec1-357f-11eb-b7d0-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,60.0,female,['frontal'],right,2434.145211,177.6545614,0.0,,14
+patient_235,a195e1e8-357f-11eb-b2a6-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,72.0,female,['sellar region'],,5404.178955,85.53824805,1.0,,14
+patient_280,a196573f-357f-11eb-b4e5-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,76.0,female,['sellar region'],,6331.131614,98.40136614,0.0,,14
+patient_632,a19741e9-357f-11eb-9e60-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,6.0,male,[],,3726.983125,100.5263473,0.0,,14
+patient_1010,a195baea-357f-11eb-bf4b-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,6.0,female,[],,2472.89519,26.99426982,0.0,,14
+patient_1381,a1971a9a-357f-11eb-8efd-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,14.0,male,[],,6557.57608,270.3073481,0.0,,14
+patient_1917,a19593ff-357f-11eb-97db-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,69.0,female,[],,3524.278601,49.10990861,0.0,,14
+patient_2421,a1980538-357f-11eb-b8b8-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,70.0,male,['sellar region'],,4390.814966,106.1411158,0.0,,14
+patient_957,a1956ce5-357f-11eb-8106-001a7dda7111,Adamantinomatous craniopharyngioma,Tumours of the sellar region,I,,,0,34.0,female,['sellar region'],,9574.913757,57.67874406,0.0,,14
+patient_1193,a197dde2-357f-11eb-aa67-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,"Gemistocytic astrocytoma, IDH-mutant",0,47.0,female,[],,5239.223096,33.1041448,0.0,,15
+patient_1511,a1971acf-357f-11eb-9081-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,35.0,male,"['parietal', 'occipital']",right,2573.737794,17.84797197,0.0,,15
+patient_1516,a196a5a4-357f-11eb-8c79-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,35.0,female,"['frontal', 'parietal']",,4067.241035,55.20597331,0.0,,15
+patient_1747,a195e218-357f-11eb-907e-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,30.0,female,['brain stem'],,4955.195461,16.23427383,0.0,,15
+patient_2572,a196a588-357f-11eb-b2ff-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,59.0,female,[],,4531.447458,276.4004243,0.0,,15
+patient_50,a1960916-357f-11eb-a1ad-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,54.0,male,['temporal'],,3264.906394,279.845389,1.0,,15
+patient_1272,a1978f8e-357f-11eb-847c-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,65.0,female,['temporal'],left,2900.568864,172.6678536,1.0,,15
+patient_1387,a19805a8-357f-11eb-a95f-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,50.0,female,"['temporal', 'basal ganglia']",right,8214.991273,8.295322264,0.0,,15
+patient_1005,a19804c3-357f-11eb-a40f-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,49.0,female,"['cerebral, NOS']",left,3191.023249,328.3382534,0.0,,15
+patient_2317,a197b6d4-357f-11eb-8e4d-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,43.0,male,['frontal'],left,3240.914423,86.1454403,0.0,,15
+patient_1302,a197ddfb-357f-11eb-aeeb-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,31.0,female,['frontal'],left,2603.952359,173.6917338,0.0,,15
+patient_774,a196f396-357f-11eb-92a6-001a7dda7111,"Anaplastic astrocytoma, IDH-mutant",Adult-type diffuse gliomas,III,,,0,31.0,male,['frontal'],bilateral,6724.872391,19.44289682,0.0,,15
+patient_1041,a1978fee-357f-11eb-ab78-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,59.0,female,['spinal'],,7377.826335,39.21697081,0.0,,16
+patient_1557,a196f372-357f-11eb-8415-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,45.0,male,['spinal'],,10490.8498,8.749338875,0.0,,16
+patient_2429,a196a565-357f-11eb-bae6-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,27.0,male,[],,5513.909977,107.2866627,0.0,,16
+patient_2619,a196f37f-357f-11eb-bd97-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,57.0,female,['spinal'],,3190.485275,17.58102456,0.0,,16
+patient_2489,a19852f9-357f-11eb-8d19-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,70.0,male,[],,2197.162669,304.8804759,0.0,,16
+patient_1695,a1967ea6-357f-11eb-b8fa-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,32.0,male,['spinal'],,8850.661309,85.08618438,0.0,,16
+patient_1355,a1978fc0-357f-11eb-bd4e-001a7dda7111,Ependymoma,Ependymal Tumours,II,,Subependymoma,0,63.0,male,['fourth ventricle'],,1087.408994,204.261691,0.0,,16
+patient_1167,a195bb30-357f-11eb-bd72-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,64.0,female,['spinal'],,6357.598771,36.90481398,0.0,,16
+patient_2261,a1971acb-357f-11eb-ae7e-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,49.0,male,['spinal'],,4327.269761,253.5450898,0.0,,16
+patient_1742,a1982bff-357f-11eb-aa7a-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,55.0,male,['spinal'],,4306.619508,108.8477863,0.0,,16
+patient_2437,a196cca3-357f-11eb-bbf5-001a7dda7111,Ependymoma,Ependymal Tumours,II,,,0,64.0,male,['spinal'],,4213.993372,56.71152726,0.0,,16
+patient_1668,a19657cb-357f-11eb-b345-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,57.0,female,[],,614.2288254,104.0768478,0.0,,17
+patient_2680,a1971ad9-357f-11eb-b3e2-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,8.0,male,['fourth ventricle'],,7761.468643,356.988236,0.0,,17
+patient_2826,a194f786-357f-11eb-a621-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,4.0,female,['fourth ventricle'],,4668.37511,271.8504769,0.0,,17
+patient_201,a1951ec9-357f-11eb-a284-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,22.0,male,['cerebellar'],right,6081.300598,59.96990185,0.0,,17
+patient_2586,a195bb1d-357f-11eb-8b5d-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,22.0,female,['brain stem'],,4369.325335,5.125276394,0.0,,17
+patient_1832,a1982c8a-357f-11eb-8e2d-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,2.083333333,male,['fourth ventricle'],,1159.191936,188.0551384,0.0,H3K27me3 loss,17
+patient_407,a196a52a-357f-11eb-a2d0-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,47.0,male,['frontal'],left,2511.738132,217.3558593,1.0,,17
+patient_2276,a195bb33-357f-11eb-8eca-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,1.0,female,[],,1767.690347,43.81253773,0.0,,17
+patient_2566,a1982bf9-357f-11eb-890a-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,19.0,male,"['cranial, NOS', 'posterior fossa, NOS']",,5398.256023,380.0281038,0.0,,17
+patient_1669,a19804b5-357f-11eb-b64b-001a7dda7111,Anaplastic ependymoma,Ependymal Tumours,III,,,0,6.0,male,['spinal'],,5011.469562,175.3148431,0.0,,17
+patient_2540,a1963014-357f-11eb-95f2-001a7dda7111,"Glioblastoma, IDH-mutant",Adult-type diffuse gliomas,IV,,,0,34.0,female,['frontal'],right,3979.830695,259.1974582,2.0,,18
+patient_588,a195e1d0-357f-11eb-bc03-001a7dda7111,"Glioblastoma, IDH-mutant",Adult-type diffuse gliomas,IV,,,0,38.0,male,['parietal'],,4527.15445,162.6443295,1.0,,18
+patient_1459,a195bb44-357f-11eb-b1e1-001a7dda7111,"Glioblastoma, IDH-mutant",Adult-type diffuse gliomas,IV,,,0,44.0,female,['temporal'],right,6816.960838,43.15632831,1.0,,18
+patient_307,a1959430-357f-11eb-a247-001a7dda7111,"Glioblastoma, IDH-mutant",Adult-type diffuse gliomas,IV,,,0,52.0,male,[],,5457.882839,42.40856883,3.0,,18
+patient_307,a197687f-357f-11eb-82e0-001a7dda7111,"Glioblastoma, IDH-mutant",Adult-type diffuse gliomas,IV,,,0,55.0,male,"['frontal', 'temporal', 'basal ganglia']",right,5092.380298,48.09440491,4.0,,18
+patient_2302,a19805b5-357f-11eb-ae9c-001a7dda7111,"Glioblastoma, IDH-mutant",Adult-type diffuse gliomas,IV,,,0,31.0,female,[],,4149.557684,214.9260398,1.0,,18
+patient_397,a197de29-357f-11eb-bdae-001a7dda7111,"Glioblastoma, IDH-mutant",Adult-type diffuse gliomas,IV,,,0,30.0,male,['temporal'],right,5259.528158,74.01253274,0.0,,18
+patient_1768,a195bb0f-357f-11eb-adbb-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,71.0,female,[],,8026.365978,143.3307431,1.0,,19
+patient_1038,a197b70d-357f-11eb-8065-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,58.0,male,"['cerebral, NOS']",left,7172.563941,316.8746934,0.0,,19
+patient_810,a196099a-357f-11eb-acdc-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,50.0,female,"['cerebral, NOS']",left,8362.488119,333.8592486,0.0,,19
+patient_2622,a196574b-357f-11eb-b3e8-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,46.0,male,['frontal'],left,8429.088758,166.6310606,0.0,,19
+patient_2281,a1967e54-357f-11eb-98a4-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,60.0,male,['frontal'],left,11480.50277,30.96040365,1.0,,19
+patient_712,a19741e6-357f-11eb-b13b-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,58.0,female,['spinal'],,5311.34207,278.5393937,0.0,,19
+patient_1602,a1951eec-357f-11eb-94d1-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,74.0,female,['parietal'],left,6080.794737,196.0061228,0.0,,19
+patient_814,a19741f5-357f-11eb-a216-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,68.0,female,['cranial nerves'],,5884.969973,172.4275578,0.0,,19
+patient_659,a196578e-357f-11eb-93f0-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,35.0,female,['cranial nerves'],,7764.536118,147.6730847,0.0,,19
+patient_2446,a195e24b-357f-11eb-9c49-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,68.0,female,['frontal'],right,6504.799706,327.2649576,0.0,,19
+patient_831,a1967e5e-357f-11eb-8517-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,27.0,male,['frontal'],left,4597.719695,243.0974644,0.0,,19
+patient_831,a19545d6-357f-11eb-a5cd-001a7dda7111,Haemangiopericytoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,28.0,male,['cranial nerves'],right,6089.871994,117.2275872,1.0,solitary fibrous tumour,26
+patient_831,a1965734-357f-11eb-a721-001a7dda7111,Haemangiopericytoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,27.0,male,[],,8116.290608,127.9349213,0.0,solitary fibrous tumour,26
+patient_664,a196cc9e-357f-11eb-8d20-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,66.0,female,[],,8371.033803,79.33978236,0.0,,19
+patient_2776,a1982cc9-357f-11eb-8297-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,56.0,male,['temporal'],right,5513.251017,253.8589293,0.0,,19
+patient_2776,a197b6a9-357f-11eb-8b47-001a7dda7111,Transitional meningioma,Meningiomas,I,,,0,57.0,male,['frontal'],right,4740.13691,297.0926846,1.0,,1
+patient_2459,a195e1fa-357f-11eb-a1a5-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,22.0,female,[],,7583.729896,94.95459488,0.0,,19
+patient_1219,a1956cea-357f-11eb-992b-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,59.0,male,"['cranial, NOS']",,6157.620794,32.03104033,0.0,,19
+patient_1589,a1982cb2-357f-11eb-b637-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,32.0,female,[],,7338.604667,251.29382,0.0,,19
+patient_654,a19741c7-357f-11eb-a291-001a7dda7111,Atypical meningioma,Meningiomas,II,,Lymphoplasmocyte-rich meningioma,0,26.0,female,"['cranial, NOS']",left,12259.75772,254.6596001,0.0,,19
+patient_2509,a1971abf-357f-11eb-b2e0-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,73.0,male,"['cranial, NOS']",right,5435.770824,198.5002744,0.0,,19
+patient_2388,a1982c88-357f-11eb-9a0d-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,78.0,male,[],,7184.618592,261.8868317,0.0,,19
+patient_172,a1951eb8-357f-11eb-abdd-001a7dda7111,Atypical meningioma,Meningiomas,II,,,0,35.0,male,"['cranial, NOS']",left,4082.834863,343.8010713,0.0,,19
+patient_1241,a1971a9f-357f-11eb-b02f-001a7dda7111,Metastatic tumours,Metastatic tumours,,Adenocarcinoma,,0,54.0,female,['spinal'],,2565.021931,113.4317787,0.0,,20
+patient_2662,a19804e9-357f-11eb-8069-001a7dda7111,Metastatic tumours,Metastatic tumours,,Lung carcinoma,,0,52.0,female,"['occipital', 'temporal']",right,3399.536228,285.0715318,0.0,,20
+patient_1073,a1951e87-357f-11eb-b99c-001a7dda7111,Metastatic tumours,Metastatic tumours,,Thyroid carcinoma,,0,40.0,male,['spinal'],,3037.674784,92.82000874,0.0,,20
+patient_824,a19741be-357f-11eb-8624-001a7dda7111,Metastatic tumours,Metastatic tumours,,Lung carcinoma,,0,64.0,male,"['posterior fossa, NOS']",,7249.893821,85.57283946,0.0,,20
+patient_967,a1982c07-357f-11eb-9c33-001a7dda7111,Metastatic tumours,Metastatic tumours,,Breast carcinoma,,0,39.0,female,['cerebellar'],,3642.523459,184.8836411,0.0,,20
+patient_919,a196a53e-357f-11eb-b87a-001a7dda7111,Metastatic tumours,Metastatic tumours,,Lung carcinoma,,0,52.0,female,['occipital'],bilateral,3566.698362,107.9687602,0.0,,20
+patient_2575,a1982c32-357f-11eb-9f00-001a7dda7111,Metastatic tumours,Metastatic tumours,,Lung carcinoma,,0,56.0,female,[],,3555.547176,29.65056988,0.0,,20
+patient_522,a19657a7-357f-11eb-8e9c-001a7dda7111,Metastatic tumours,Metastatic tumours,,Squamous cell carcinoma,,0,51.0,male,['spinal'],right,6505.552184,340.9513808,0.0,,20
+patient_1643,a1965779-357f-11eb-9510-001a7dda7111,Metastatic tumours,Metastatic tumours,,Rectal carcinoma,,0,78.0,female,['brain stem'],left,5236.269959,3.834408875,0.0,,20
+patient_2672,a195e258-357f-11eb-bdca-001a7dda7111,Metastatic tumours,Metastatic tumours,,Laryngeal carcinoma,,0,71.0,male,['temporal'],left,8910.725905,184.9572097,0.0,,20
+patient_719,a1982c3f-357f-11eb-b812-001a7dda7111,Metastatic tumours,Metastatic tumours,,Lung carcinoma,,0,58.0,male,['parietal'],right,4806.917837,245.3553483,0.0,,20
+patient_2278,a195bb0e-357f-11eb-a2e7-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,56.0,male,"['cerebral, NOS']",left,4124.56491,189.0626083,0.0,,21
+patient_1060,a1959436-357f-11eb-8e0a-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,65.0,female,"['cranial, NOS']",right,2069.480944,48.1202788,0.0,,21
+patient_1349,a196f3d5-357f-11eb-95b9-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,73.0,female,"['cranial, NOS']",left,7404.744097,104.7921427,0.0,,21
+patient_2478,a1982c26-357f-11eb-884a-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,62.0,female,['frontal'],left,9207.876716,53.61735558,0.0,,21
+patient_300,a19545e8-357f-11eb-ba36-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,Angiomatous meningioma,0,32.0,female,['temporal'],left,5512.271508,52.4825382,0.0,,21
+patient_1850,a1951f1b-357f-11eb-842a-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,76.0,female,"['cranial, NOS']",,8269.654283,135.5113481,0.0,,21
+patient_739,a1971aa2-357f-11eb-a17d-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,76.0,male,"['cranial, NOS']",,6709.257116,79.08595405,0.0,,21
+patient_2516,a1982c27-357f-11eb-8f3e-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,34.0,female,"['cranial, NOS']",left,1737.255242,20.5364181,0.0,,21
+patient_2828,a1982cab-357f-11eb-b6ff-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,73.0,female,"['cranial, NOS']",left,3028.727518,219.0388525,1.0,,21
+patient_552,a195e268-357f-11eb-9eb5-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,50.0,female,"['cranial, NOS']",left,500.5531952,120.1011213,0.0,,21
+patient_2654,a19741f9-357f-11eb-9b22-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,74.0,female,"['cranial, NOS']",left,7111.940079,121.0775106,0.0,,21
+patient_2576,a196570b-357f-11eb-885b-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,75.0,female,[],,3851.641132,161.6251304,1.0,,21
+patient_1769,a19656fd-357f-11eb-ad72-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,70.0,female,['frontal'],left,5955.853551,186.5939097,0.0,,21
+patient_2661,a19657b7-357f-11eb-85c3-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,42.0,female,['cranial nerves'],,8119.818879,6.552116592,0.0,,21
+patient_1603,a195e1f9-357f-11eb-a81e-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,75.0,female,['cranial nerves'],,6041.186469,322.0337611,0.0,,21
+patient_357,a196f3c4-357f-11eb-acad-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,56.0,female,"['cranial, NOS']",,4452.80295,124.1415814,0.0,,21
+patient_236,a195e24c-357f-11eb-8e31-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,47.0,female,"['cranial, NOS']",,4375.97406,93.39154995,0.0,,21
+patient_1339,a1971aa0-357f-11eb-9b45-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,77.0,female,"['cranial, NOS']",,7249.415714,34.48843464,0.0,,21
+patient_2717,a19805c6-357f-11eb-8bea-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,45.0,female,[],,3174.455801,31.10076378,0.0,,21
+patient_2717,a1982c0f-357f-11eb-9684-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,45.0,female,"['cranial, NOS']",,6705.939027,12.35486927,0.0,,21
+patient_950,a1982c76-357f-11eb-90fb-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,57.0,female,"['cranial, NOS']",,8186.717748,188.659857,0.0,CNS infiltration,21
+patient_2122,a1982c8f-357f-11eb-b0e4-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,38.0,female,"['cranial, NOS']",,4798.858756,177.2325553,0.0,,21
+patient_754,a195e1ff-357f-11eb-93c9-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,72.0,female,[],,9913.23753,191.0139845,0.0,,21
+patient_166,a1982c70-357f-11eb-a60c-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,72.0,female,"['cranial, NOS']",left,5794.302394,364.365174,0.0,,21
+patient_1262,a1956ced-357f-11eb-a0ca-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,53.0,male,['cranial nerves'],,5805.180119,172.5262575,0.0,,21
+patient_2857,a195bb01-357f-11eb-b7ed-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,64.0,female,"['posterior fossa, NOS']",left,6805.253541,315.1703294,0.0,,21
+patient_349,a19741cd-357f-11eb-953d-001a7dda7111,Meningothelial meningioma,Meningiomas,I,,,0,39.0,female,"['cranial, NOS']",right,3493.691767,254.3358313,0.0,,21
+patient_2098,a19657a0-357f-11eb-8d12-001a7dda7111,Langerhans cell histiocytosis,Haematolymphoid tumours involving the CNS,,,,0,12.0,male,[],,7468.128848,41.55485348,0.0,,22
+patient_2876,a1963077-357f-11eb-b1ed-001a7dda7111,Langerhans cell histiocytosis,Haematolymphoid tumours involving the CNS,,,,0,47.0,female,['diencephalon'],,6106.280092,53.9287414,0.0,,22
+patient_2535,a195bb39-357f-11eb-a62c-001a7dda7111,Langerhans cell histiocytosis,Haematolymphoid tumours involving the CNS,,,,0,3.0,female,[],,14083.6621,39.16140532,0.0,,22
+patient_1532,a1951f0d-357f-11eb-a739-001a7dda7111,Langerhans cell histiocytosis,Haematolymphoid tumours involving the CNS,,,,0,28.0,female,['parietal'],left,4300.204827,139.9028707,0.0,,22
+patient_2252,a1978fec-357f-11eb-93b9-001a7dda7111,Langerhans cell histiocytosis,Haematolymphoid tumours involving the CNS,,,,0,23.0,male,['parietal'],right,3938.254842,58.47844014,0.0,,22
+patient_2288,a196304d-357f-11eb-84d2-001a7dda7111,Langerhans cell histiocytosis,Haematolymphoid tumours involving the CNS,,,,0,31.0,male,[],,2885.595606,134.2533927,0.0,,22
+patient_82,a1971ae2-357f-11eb-b478-001a7dda7111,Langerhans cell histiocytosis,Haematolymphoid tumours involving the CNS,,,,0,53.0,female,['sellar region'],,8288.20877,38.06129995,0.0,,22
+patient_1801,a197de00-357f-11eb-b8de-001a7dda7111,Langerhans cell histiocytosis,Haematolymphoid tumours involving the CNS,,,,0,17.0,male,[],,4501.585539,24.59733332,0.0,,22
+patient_991,a1980585-357f-11eb-b797-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,non-PCNSL (systemic disease),,0,49.0,male,"['cerebral, NOS']",right,4374.643296,4.248574968,0.0,,23
+patient_373,a197ddc9-357f-11eb-9259-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,70.0,female,['temporal'],right,7362.46985,22.52776628,0.0,,23
+patient_1468,a1978f8c-357f-11eb-84cb-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,53.0,male,['spinal'],,13694.25972,191.9415912,0.0,,23
+patient_90,a196a57c-357f-11eb-878c-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,60.0,female,['frontal'],right,5204.014148,6.84183382,0.0,,23
+patient_2746,a195e20a-357f-11eb-bfe4-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,78.0,female,['temporal'],right,717.842075,312.483773,0.0,,23
+patient_862,a19768d6-357f-11eb-ac19-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,72.0,male,"['cerebral, NOS']",,4718.490234,30.78103224,0.0,,23
+patient_1517,a195941e-357f-11eb-b7a9-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,74.0,male,['cerebellar'],,7700.232411,135.7464222,0.0,,23
+patient_1863,a197b6aa-357f-11eb-ae64-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,83.0,female,['frontal'],right,8892.186406,45.79379934,0.0,,23
+patient_1807,a196575f-357f-11eb-b320-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,non-PCNSL (systemic disease),,0,42.0,female,['frontal'],right,8118.975544,7.100156872,0.0,,23
+patient_547,a19545b6-357f-11eb-933c-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,75.0,female,"['cranial, NOS']",right,1474.309635,206.8059469,0.0,,23
+patient_583,a196a5c4-357f-11eb-84c6-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,71.0,female,['parietal'],right,9667.359154,184.4844048,0.0,,23
+patient_520,a19804fd-357f-11eb-81e0-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,79.0,female,['temporal'],right,2462.179056,353.0003222,0.0,,23
+patient_1744,a1982cc7-357f-11eb-805e-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,67.0,male,['temporal'],right,8508.81005,18.95094602,0.0,,23
+patient_829,a19852f7-357f-11eb-9a9f-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,80.0,female,['parietal'],right,3122.503318,92.70638669,0.0,,23
+patient_86,a194f78e-357f-11eb-aef1-001a7dda7111,Diffuse large B-cell lymphoma of the CNS,Haematolymphoid tumours involving the CNS,,,,0,65.0,female,['frontal'],left,3735.133664,203.8085028,0.0,,23
+patient_1683,a197ddc4-357f-11eb-a882-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,32.0,male,[],,5081.734509,207.8611148,0.0,,24
+patient_88,a1951efd-357f-11eb-ac28-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,38.0,female,['parietal'],right,4577.281424,5.287854899,0.0,,24
+patient_1239,a1982c74-357f-11eb-b7d8-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,51.0,male,['temporal'],left,2161.366733,44.59354285,0.0,,24
+patient_1525,a19805a5-357f-11eb-96b2-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,29.0,male,['insular'],,6514.132383,52.70110888,0.0,,24
+patient_1410,a198059d-357f-11eb-9f22-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,45.0,male,"['cranial, NOS']",left,2706.121404,56.56102485,0.0,,24
+patient_1024,a195e1d3-357f-11eb-86d9-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,31.0,female,['insular'],left,2014.187903,9.285131725,0.0,,24
+patient_1024,a19608e9-357f-11eb-8ff2-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,33.0,female,['insular'],left,5194.160117,45.13915527,1.0,,24
+patient_1774,a194f78d-357f-11eb-a5e4-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,47.0,female,['parietal'],left,2109.589316,147.33626,0.0,,24
+patient_2742,a1978fde-357f-11eb-960c-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,46.0,male,['temporal'],left,1312.416575,180.3558447,0.0,,24
+patient_1701,a19741b2-357f-11eb-a945-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,36.0,female,[],,2028.098438,158.2275268,0.0,,24
+patient_461,a197b6da-357f-11eb-b48b-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,60.0,female,['temporal'],right,3952.34485,244.7592598,0.0,,24
+patient_193,a196a537-357f-11eb-8f70-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,37.0,male,"['cerebral, NOS']",right,1063.106247,42.21967477,0.0,,24
+patient_193,a1978ff3-357f-11eb-b708-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,41.0,male,"['cerebral, NOS']",right,2612.046218,109.6703412,1.0,,24
+patient_1949,a1971aa6-357f-11eb-bf43-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,39.0,male,"['frontal', 'parietal']",left,1514.356735,321.6745359,0.0,,24
+patient_2277,a1971ab4-357f-11eb-804b-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,28.0,male,['frontal'],right,1351.286809,16.04840649,0.0,,24
+patient_1421,a19804f8-357f-11eb-8d08-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,39.0,female,['frontal'],left,2717.740729,25.71768501,0.0,,24
+patient_1492,a196f377-357f-11eb-a69b-001a7dda7111,"Diffuse astrocytoma, IDH-mutant",Paediatric-type diffuse low-grade gliomas ,II,,,0,29.0,male,['frontal'],left,2322.842818,16.62574828,0.0,,24
+patient_655,a19805b0-357f-11eb-804c-001a7dda7111,Secretory meningioma,Meningiomas,I,,,0,51.0,female,['cranial nerves'],left,7158.106177,122.9872788,0.0,,25
+patient_1560,a1982c38-357f-11eb-8001-001a7dda7111,Secretory meningioma,Meningiomas,I,,,0,51.0,female,"['cranial, NOS']",left,4556.158429,190.7427087,0.0,,25
+patient_1697,a1965710-357f-11eb-9c08-001a7dda7111,Secretory meningioma,Meningiomas,I,,,0,66.0,female,['frontal'],right,4428.807545,80.74227574,0.0,,25
+patient_2056,a19657b8-357f-11eb-977b-001a7dda7111,Secretory meningioma,Meningiomas,I,,,0,72.0,female,['frontal'],left,6776.897407,157.3572589,0.0,,25
+patient_198,a19804cc-357f-11eb-8e5b-001a7dda7111,Secretory meningioma,Meningiomas,I,,,0,67.0,female,"['cranial, NOS']",left,3613.340899,272.9155725,0.0,,25
+patient_1858,a195bb46-357f-11eb-b4f6-001a7dda7111,Secretory meningioma,Meningiomas,I,,,0,73.0,female,['frontal'],right,6515.27535,143.8468752,0.0,,25
+patient_486,a19768d3-357f-11eb-bd86-001a7dda7111,Secretory meningioma,Meningiomas,I,,,0,62.0,female,[],,7349.998478,258.6552917,0.0,,25
+patient_2442,a196579f-357f-11eb-adb5-001a7dda7111,Secretory meningioma,Meningiomas,I,,,0,78.0,female,['frontal'],left,4329.132767,348.7257336,0.0,,25
+patient_2063,a1960935-357f-11eb-9ee8-001a7dda7111,Secretory meningioma,Meningiomas,I,,Meningothelial meningioma,0,51.0,female,['parietal'],right,7312.763265,316.6551297,0.0,,25
+patient_1424,a197b6ef-357f-11eb-bc7e-001a7dda7111,Secretory meningioma,Meningiomas,I,,,0,57.0,female,"['cranial, NOS']",right,7614.181635,90.05261929,0.0,,25
+patient_1378,a196578d-357f-11eb-a976-001a7dda7111,Haemangiopericytoma,"Mesenchymal, non-meningothelial tumours involving the CNS",II,,,0,32.0,female,['frontal'],right,12314.46512,294.2163517,0.0,,26
+patient_590,a1965731-357f-11eb-bfc3-001a7dda7111,Haemangiopericytoma,"Mesenchymal, non-meningothelial tumours involving the CNS",III,,,0,27.0,male,[],,11550.87018,51.42668827,0.0,,26
+patient_701,a1982c37-357f-11eb-8061-001a7dda7111,Haemangiopericytoma,"Mesenchymal, non-meningothelial tumours involving the CNS",I,,,0,50.0,male,['cerebellar'],right,8740.881525,167.0576355,0.0,solitary fibrous tumour,26
+patient_128,a1965729-357f-11eb-b11d-001a7dda7111,Haemangiopericytoma,"Mesenchymal, non-meningothelial tumours involving the CNS",III,,,0,33.0,female,['occipital'],right,9363.498784,310.1860818,0.0,,26
+patient_353,a1965787-357f-11eb-9302-001a7dda7111,Haemangiopericytoma,"Mesenchymal, non-meningothelial tumours involving the CNS",III,,,0,79.0,female,"['cerebral, NOS']",right,10251.34022,347.0176508,0.0,,26
+patient_466,a19608ea-357f-11eb-8756-001a7dda7111,Haemangiopericytoma,"Mesenchymal, non-meningothelial tumours involving the CNS",III,,,0,39.0,male,['parietal'],left,13368.83112,194.1111363,0.0,,26
+patient_579,a1956d1a-357f-11eb-ae18-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,72.0,female,"['cranial, NOS']",right,7330.884301,98.3995887,0.0,,27
+patient_410,a197de26-357f-11eb-8bc7-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,53.0,female,['parietal'],left,7504.55298,112.7624793,0.0,,27
+patient_476,a1982bd9-357f-11eb-909e-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,66.0,female,['diencephalon'],,8170.06606,170.6831976,0.0,,27
+patient_2695,a19609ad-357f-11eb-9679-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,65.0,male,"['parietal', 'temporal']",left,4425.157759,168.6624615,0.0,,27
+patient_2123,a19545d0-357f-11eb-84e1-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,78.0,male,[],,7100.50045,254.6107859,0.0,,27
+patient_1181,a1980504-357f-11eb-b8bd-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,76.0,female,['cranial nerves'],left,5423.710819,229.4762832,0.0,,27
+patient_809,a1971a96-357f-11eb-867f-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,76.0,female,"['cerebral, NOS', 'cranial, NOS']",left,5465.151556,258.8204527,0.0,,27
+patient_2514,a1954605-357f-11eb-a42f-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,39.0,female,['frontal'],left,4988.007635,44.55346027,0.0,,27
+patient_2180,a19609b6-357f-11eb-be2e-001a7dda7111,Fibrous meningioma,Meningiomas,I,,Psammomatous meningioma,0,76.0,female,"['cerebral, NOS']",,7012.729731,315.1186606,0.0,,27
+patient_2818,a1976891-357f-11eb-a7ae-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,72.0,female,"['cerebral, NOS']",right,141.6145723,335.7987758,0.0,,27
+patient_1677,a197b6b4-357f-11eb-bc7c-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,67.0,female,"['cranial, NOS']",right,7960.231802,295.1366315,0.0,,27
+patient_1503,a197b6eb-357f-11eb-85a2-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,28.0,female,['lateral ventricle'],,5573.856148,252.654529,0.0,,27
+patient_2545,a1980521-357f-11eb-843d-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,56.0,female,"['posterior fossa, NOS']",left,6145.816743,339.6741373,0.0,,27
+patient_2159,a1980599-357f-11eb-9974-001a7dda7111,Fibrous meningioma,Meningiomas,I,,,0,31.0,female,['occipital'],left,7642.100277,241.7949167,0.0,,27
+patient_160,a1967e73-357f-11eb-a383-001a7dda7111,Lipoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,1.083333333,female,[],,881.8317825,316.4299649,0.0,,28
+patient_2833,a1963078-357f-11eb-bbad-001a7dda7111,Lipoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,9.0,male,['spinal'],,529.6637995,124.8980958,0.0,,28
+patient_1989,a1960966-357f-11eb-93fe-001a7dda7111,Lipoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,17.0,male,['spinal'],,993.0130377,313.5749363,0.0,,28
+patient_1510,a195e20b-357f-11eb-b1d0-001a7dda7111,Lipoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,39.0,female,['spinal'],,559.1994914,37.5000341,0.0,,28
+patient_2652,a19741a3-357f-11eb-a928-001a7dda7111,Lipoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,0.916666667,male,['other'],,980.5040604,59.12265165,0.0,,28
+patient_2456,a195459c-357f-11eb-b923-001a7dda7111,Lipoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,6.0,male,['spinal'],,1498.615174,2.707833252,0.0,,28
+patient_1823,a195bae4-357f-11eb-b226-001a7dda7111,Lipoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,0.75,male,['spinal'],,755.787679,233.4729778,0.0,,28
+patient_2099,a1971ac1-357f-11eb-9731-001a7dda7111,Lipoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,44.0,male,[],,1123.045519,3.61338871,0.0,,28
+patient_1074,a19609a2-357f-11eb-a567-001a7dda7111,Lipoma,"Mesenchymal, non-meningothelial tumours involving the CNS",,,,0,69.0,female,['spinal'],,238.5779178,89.74007402,0.0,,28
+patient_2708,a197688b-357f-11eb-9e02-001a7dda7111,"Medulloblastoma, non-WNT/non-SHH",Embryonal Tumors,IV,,,0,6.0,male,[],,9064.383696,103.4410095,1.0,,29
+patient_2047,a194f789-357f-11eb-933d-001a7dda7111,"Medulloblastoma, non-WNT/non-SHH",Embryonal Tumors,IV,classic,,0,28.0,male,['fourth ventricle'],,9914.722077,104.3573377,0.0,,29
+patient_887,a196a58b-357f-11eb-a68a-001a7dda7111,"Medulloblastoma, non-WNT/non-SHH",Embryonal Tumors,IV,classic,,0,8.0,female,[],,9733.646696,193.0147106,0.0,,29
+patient_912,a197b6d2-357f-11eb-a647-001a7dda7111,"Medulloblastoma, non-WNT/non-SHH",Embryonal Tumors,IV,,,0,4.0,male,[],,12397.15474,20.20810462,0.0,,29
+patient_817,a1956cd9-357f-11eb-8bf1-001a7dda7111,"Medulloblastoma, non-WNT/non-SHH",Embryonal Tumors,IV,classic,,0,23.0,male,['frontal'],left,2883.655233,155.4554771,1.0,,29
+patient_1552,a196cc91-357f-11eb-9749-001a7dda7111,"Medulloblastoma, non-WNT/non-SHH",Embryonal Tumors,IV,classic,,0,5.0,male,['fourth ventricle'],,7694.280146,44.09587298,0.0,,29
+patient_1760,a197ddf6-357f-11eb-a0f7-001a7dda7111,"Medulloblastoma, non-WNT/non-SHH",Embryonal Tumors,IV,classic,,0,6.0,male,[],,9015.71812,74.77463148,0.0,,29
+patient_1452,a196cc9f-357f-11eb-a203-001a7dda7111,"Medulloblastoma, non-WNT/non-SHH",Embryonal Tumors,IV,,,0,12.0,male,['fourth ventricle'],,11794.14462,93.52318758,0.0,,29

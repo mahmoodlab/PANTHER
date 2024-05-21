@@ -1,0 +1,21 @@
+{
+  "in_dim": 768,
+  "n_classes": 2,
+  "n_filters": 1024,
+  "len_motifs": 1,
+  "subsamplings": 1,
+  "kernel_args": 0.4,
+  "weight_decay": 0.0001,
+  "embed_ratio": 16,
+  "ot_eps": 0.1,
+  "heads": 1,
+  "out_size": 4,
+  "out_type": "param_cat",
+  "max_iter": 100,
+  "distance": "euclidean",
+  "fit_bias": false,
+  "alternating": false,
+  "load_proto": false,
+  "proto_path": ".",
+  "fix_proto": true
+}

@@ -1,0 +1,13 @@
+.DS_Store
+*.pth
+*.pth.tar
+*.pt
+**/__pycache__/
+*bwh*.csv
+.ipynb_checkpoints
+.vscode
+**/wandb
+src/results/
+**/embeddings/
+**/prototypes/
+**/test.ipynb

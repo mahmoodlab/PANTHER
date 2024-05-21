@@ -1,0 +1,15 @@
+{
+  "in_dim": 768,
+  "n_classes": 2,
+  "heads": 1,
+  "em_iter": 1,
+  "tau": 0.001,
+  "ot_eps": 0.1,
+  "n_fc_layers": 0,
+  "dropout": 0.25,
+  "out_type": "param_cat",
+  "out_size": 8,
+  "load_proto": false,
+  "proto_path": ".",
+  "fix_proto": false
+}

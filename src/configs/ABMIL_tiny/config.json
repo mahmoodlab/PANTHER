@@ -1,0 +1,9 @@
+{
+  "gate": true,
+  "in_dim": 64,
+  "n_classes": 2,
+  "embed_dim": 64,
+  "attn_dim": 64,
+  "n_fc_layers": 1,
+  "dropout": 0.25
+}

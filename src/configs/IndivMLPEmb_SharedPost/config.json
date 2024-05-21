@@ -1,0 +1,15 @@
+{
+  "in_dim": 2049,
+  "n_classes": 4,
+  "shared_embed_dim": 256,
+  "indiv_embed_dim": 128,
+  "postcat_embed_dim": 1024,
+  "shared_mlp": true,
+  "indiv_mlps": false,
+  "postcat_mlp": true,
+  "n_fc_layers": 1,
+  "shared_dropout": 0.1,
+  "indiv_dropout": 0.1,
+  "postcat_dropout": 0.1,
+  "p": 32
+}
