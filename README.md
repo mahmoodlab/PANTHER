@@ -7,7 +7,7 @@
 
 <img src="docs/panther.png" width="300px" align="right" />
 
-[Paper Link] | [Cite](#cite)
+[Arxiv](https://arxiv.org/pdf/2405.11643) | [Cite](#cite)
 
 **Abstract:** Representation learning of pathology whole-slide images (WSIs) has been has primarily relied on weak supervision with Multiple Instance Learning (MIL). However, the slide representations resulting from this approach are highly tailored to specific clinical tasks, which limits their expressivity and generalization, particularly in scenarios with limited data. Instead, we hypothesize that morphological redundancy in tissue can be leveraged to build a task-agnostic slide representation in an unsupervised fashion. To this end, we introduce **PANTHER**, a prototype-based approach rooted in the Gaussian mixture model that summarizes the set of WSI patches into a much smaller set of morphological prototypes. Specifically, each patch is assumed to have been generated from a mixture distribution, where each mixture component represents a morphological exemplar. Utilizing the estimated mixture parameters, we then construct a compact slide representation that can be readily used for a wide range of downstream tasks.
 By performing an extensive evaluation of **PANTHER** on subtyping and survival tasks using 13 datasets, we show that 1) **PANTHER** outperforms or is on par with supervised MIL baselines and 2) the analysis of morphological prototypes brings new qualitative and quantitative insights into model interpretability.
