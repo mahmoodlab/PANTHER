@@ -20,9 +20,9 @@ By performing an extensive evaluation of **PANTHER** on subtyping and survival t
 - 05/06/2024: The first version of PANTHER codebase is now live.
 
 ## Installation
-Please run the following command to create PANTHER conda environment.
+Once you clone the repo, please run the following command to create PANTHER conda environment.
 ```shell
-conda env create -f environment.yml
+conda env create -f env.yaml
 ```
 
 ## PANTHER Walkthrough
