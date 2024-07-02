@@ -91,15 +91,13 @@ def main(args):
                           label_map=args.label_map,
                           target_col=args.target_col,
                           bag_size=args.train_bag_size,
-                          shuffle=True,
-                          use_h5=args.use_h5)
+                          shuffle=True)
     
     # use the whole bag at test time
     val_kwargs = dict(data_source=args.data_source,
                           label_map=args.label_map,
                           target_col=args.target_col,
-                          bag_size=args.val_bag_size,
-                          use_h5=args.use_h5)
+                          bag_size=args.val_bag_size)
 
     all_results, all_dumps = {}, {}
 
@@ -163,7 +161,6 @@ parser.add_argument('--print_every', default=100,
                     type=int, help='how often to print')
 parser.add_argument('--seed', type=int, default=1,
                     help='random seed for reproducible experiment (default: 1)')
-parser.add_argument('--use_h5', action='store_true', default=False)
 parser.add_argument('--num_workers', type=int, default=2)
 
 ### Earlystopper args ###

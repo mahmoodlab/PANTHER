@@ -35,8 +35,7 @@ def build_datasets(csv_splits, batch_size=1, num_workers=2, train_kwargs={}):
 
 def main(args):
     
-    train_kwargs = dict(data_source=args.data_source,
-                        use_h5=args.use_h5)
+    train_kwargs = dict(data_source=args.data_source)
        
     seed_torch(args.seed)
     csv_splits = read_splits(args)
@@ -91,7 +90,6 @@ parser.add_argument('--split_dir', type=str, default=None,
                     help='manually specify the set of splits to use')
 parser.add_argument('--split_names', type=str, default='train,val,test',
                     help='delimited list for specifying names within each split')
-parser.add_argument('--use_h5', action='store_true', default=False)
 parser.add_argument('--num_workers', type=int, default=8)
 
 args = parser.parse_args()

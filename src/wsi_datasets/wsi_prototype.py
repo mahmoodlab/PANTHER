@@ -18,24 +18,19 @@ class WSIProtoDataset(Dataset):
                  df,
                  data_source,
                  sample_col='slide_id',
-                 slide_col='slide_id',
-                 use_h5=False):
+                 slide_col='slide_id'):
         """
         Args:
         """
-        self.use_h5 = use_h5
-        self.ext = '.h5' if use_h5 else '.pt'
 
         self.data_source = []
         for src in data_source:
-            if self.ext == '.h5':
-                assert os.path.basename(src) == 'feats_h5', f"{src} has to end with the directory feats_h5"
-            elif self.ext == '.pt':
-                assert os.path.basename(src) == 'feats_pt', f"{src} has to end with the directory feats_pt"
+            assert os.path.basename(src) in ['feats_h5', 'feats_pt']
+            self.use_h5 = True if os.path.basename(src) == 'feats_h5' else False
             self.data_source.append(src)
 
         self.data_df = df
-        assert 'Unnamed: 0' not in df.columns
+        assert 'Unnamed: 0' not in self.data_df.columns
         self.sample_col = sample_col
         self.slide_col = slide_col
         self.data_df[sample_col] = self.data_df[sample_col].astype(str)
@@ -96,8 +91,6 @@ class WSIProtoDataset(Dataset):
             if self.use_h5:
                 with h5py.File(feat_path, 'r') as f:
                     features = f['features'][:]
-                    coords = f['coords'][:]
-                all_coords.append(coords)
             else:
                 features = torch.load(feat_path)
 
@@ -107,8 +100,6 @@ class WSIProtoDataset(Dataset):
 
             all_features.append(features)
         all_features = torch.from_numpy(np.concatenate(all_features, axis=0))
-        if len(all_coords) > 0:
-            all_coords = np.concatenate(all_coords, axis=0)
 
         out = {'img': all_features,
                'coords': all_coords}

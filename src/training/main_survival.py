@@ -70,7 +70,6 @@ def main(args):
                         label_bins=None,
                         bag_size=args.train_bag_size,
                         shuffle=True,
-                        use_h5=args.use_h5,
                         )
 
     # use the whole bag at test time
@@ -81,7 +80,6 @@ def main(args):
                       label_bins=None,
                       bag_size=args.val_bag_size,
                       shuffle=False,
-                      use_h5=args.use_h5,
                       )
 
     all_results, all_dumps = {}, {}
@@ -143,7 +141,6 @@ parser.add_argument('--print_every', default=100,
                     type=int, help='how often to print')
 parser.add_argument('--seed', type=int, default=1,
                     help='random seed for reproducible experiment (default: 1)')
-parser.add_argument('--use_h5', action='store_true', default=False)
 parser.add_argument('--num_workers', type=int, default=2)
 
 ### Earlystopper args ###

@@ -26,26 +26,20 @@ class WSIClassificationDataset(Dataset):
                  sample_col='slide_id',
                  slide_col='slide_id',
                  target_col='label',
-                 use_h5=False,
                  label_map=None,
                  bag_size=0,
                  **kwargs):
         """
         Args:
         """
-        self.use_h5 = use_h5
-        self.ext = '.h5' if use_h5 else '.pt'
-
         self.data_source = []
         for src in data_source:
-            if self.ext == '.h5':
-                assert os.path.basename(src) == 'feats_h5', f"{src} has to end with the directory feats_h5"
-            elif self.ext == '.pt':
-                assert os.path.basename(src) == 'feats_pt', f"{src} has to end with the directory feats_pt"
+            assert os.path.basename(src) in ['feats_h5', 'feats_pt']
+            self.use_h5 = True if os.path.basename(src) == 'feats_h5' else False
             self.data_source.append(src)
 
         self.data_df = df
-        assert 'Unnamed: 0' not in df.columns
+        assert 'Unnamed: 0' not in self.data_df.columns
         self.sample_col = sample_col
         self.slide_col = slide_col
         self.target_col = target_col

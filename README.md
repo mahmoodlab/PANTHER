@@ -63,7 +63,11 @@ splits/
 
 The code assumes that the features are either in `.h5` or `.pt` formats - the feature directory path `FEAT_DIR` has to end with the directory `feats_h5/` if the features are in `.h5` format, and `feats_pt/` for `.pt` format.
 
-
+While there is no de facto standard, one good practice of organizing features are as follows (used as examples in [clustering](src/scripts/prototype/clustering.sh) and [panther](src/scripts/survival/panther.sh))
+```
+/path_to_data_folder/tcga_brca/extracted_mag20x_patch256_fp/extracted-vit_large_patch16_224.dinov2.uni_mass100k/feats_h5
+```
+which specifies *magnification*, *patch size*, and *feature extractor* used to create the patch features. 
 
 ### Step 1. Prototype construction
 For prototype construction, we use K-means clustering across all training WSIs. We recommend using GPU-based FAISS when using large number of patch features for clustering. For example, we can use the following command to find 16 prototypes (of 1,024 dimension each) using FAISS from WSIs corresponding to `SPLIT_DIR/train.csv`.
@@ -82,6 +86,8 @@ CUDA_VISIBLE_DEVICES=0 python -m training.main_prototype \
 ```
 The list of parameters is as follows:
 - `mode`: 'faiss' uses GPU-enabled K-means clustering to find the prototypes. 'kmeans' uses sklearn K-means clustering on CPU ('faiss' or 'kmeans').
+- `data_source`: comma-separated list of feature directories ending with either `feats_h5` or `feats_p5`. Example of a feature dictory is provided in **Step 0**.
+- `split_names`: Which data split to perform clustering/prototyping on. By default `train` is the best (Since train split has the most data.) 
 - `in_dim`: Dimension of the patch features, dependent on the feature encoder.
 - `n_proto`: Number of prototypes.
 - `n_proto_patches`: Number of patch features to use per prototype. In total, `n_proto * n_proto_patches` features are used for finding prototypes.
