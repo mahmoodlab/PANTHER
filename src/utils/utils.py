@@ -193,7 +193,7 @@ def get_optim(args, model=None, parameters=None):
 
     def include(n, p): return not exclude(n, p)
 
-    if ('sumo' not in args.model_type) and (parameters is None):
+    if parameters is None:
         named_parameters = list(model.named_parameters())
         gain_or_bias_params = [
             p for n, p in named_parameters if exclude(n, p) and p.requires_grad]

@@ -152,7 +152,4 @@ The code for **PANTHER** was adapted and inspired by the fantastic works of [DIE
 - Please open new threads or report issues directly (for urgent blockers) to `asong@bwh.harvard.edu`.
 - Immediate response to minor issues may not be available.
 
-## License and Usage 
-[Mahmood Lab](https://faisal.ai) - This code is made available under the CC-BY-NC-ND 4.0 License and is available for non-commercial academic purposes.
-
 <img src=docs/joint_logo.png> 
