@@ -16,7 +16,8 @@ By performing an extensive evaluation of **PANTHER** on subtyping and survival t
 <img src='docs/fig_main.jpg' width="1400px" align="center"/>
 
 ## Updates
-- 05/06/2024: The first version of PANTHER codebase is now live!
+- 07/02/2024: Multimodal extension of PANTHER ([MMP](https://github.com/mahmoodlab/MMP)) codebase is now live.
+- 05/06/2024: The first version of PANTHER codebase is now live.
 
 ## Installation
 Please run the following command to create PANTHER conda environment.
@@ -78,7 +79,6 @@ CUDA_VISIBLE_DEVICES=0 python -m training.main_prototype \
 --n_init 5 \
 --seed 1 \
 --num_workers 10 \
-
 ```
 The list of parameters is as follows:
 - `mode`: 'faiss' uses GPU-enabled K-means clustering to find the prototypes. 'kmeans' uses sklearn K-means clustering on CPU ('faiss' or 'kmeans').
@@ -96,8 +96,6 @@ cd src
 ./scripts/prototype/brca.sh 0
 ```
 This will initiate the script `scripts/prototype/clustering.sh` for K-means clustering. Detailed explanations for clustering hyperparameters can be found in **clustering.sh**. 
-
-**Visualization**:
 
 ### Step 2A. Unsupervised slide representation construction
 Once the prototypes are constructed, we can use **PANTHER** or **OT** to construct unsupervised slide representations.
