@@ -26,28 +26,34 @@ class PANTHERBase(nn.Module):
         self.L = L
         self.tau = tau
         self.out = out
+        self.H = 1  # This is a dummy variable - Originally intended for multihead. Always keep it at 1
 
         self.priors = DirNIWNet(p, d, ot_eps, load_proto, proto_path, fix_proto)
 
-        if out == 'allcat':  # Concatenates pi, mu, cov
+        if out == 'allcat':  # Concatenates pi, mu, cov - This is the default mode for PANTHER used in the paper
             self.outdim = p + 2*p*d
-        elif out == 'weight_param_cat': # Concatenates mu and cov weighted by pi
+
+        elif out == 'weight_all_cat':   # Weights mu and cov by weights and that concatenate
             self.outdim = 2 * p * d
-        elif 'select_top' in out:
+
+        elif 'select_top' in out:   # Select top c components
             c = self.out[10:]
             numOfproto = 1 if c == '' else int(c)
 
             assert numOfproto <= p
             self.outdim = numOfproto * 2 * d + numOfproto
-        elif 'select_bot' in out:
+
+        elif 'select_bot' in out:   # Select bottom c components
             c = self.out[10:]
             numOfproto = 1 if c == '' else int(c)
 
             assert numOfproto <= p
             self.outdim = numOfproto * 2 * d + numOfproto
-        elif out == 'weight_avg_all':
+
+        elif out == 'weight_avg_all':   # Concatenates mu and cov weighted by pi
             self.outdim = 2 * d
-        elif out == 'weight_avg_mean':
+
+        elif out == 'weight_avg_mean':   # Concatenates mu weighted by pi
             self.outdim = d
         else:
             raise NotImplementedError("Out mode {} not implemented".format(out))
@@ -82,7 +88,8 @@ class PANTHERBase(nn.Module):
         if self.out == 'allcat':
             out = torch.cat([pis.reshape(B,-1),
                 mus.reshape(B,-1), Sigmas.reshape(B,-1)], dim=1)
-        elif self.out == 'weight_param_cat':
+            
+        elif self.out == 'weight_all_cat':
             out = []
             for h in range(self.H):
                 pi, mu, Sigma = pis[..., h].reshape(B, -1), mus[..., h], Sigmas[..., h]

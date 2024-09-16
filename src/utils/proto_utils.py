@@ -80,7 +80,7 @@ def cluster(data_loader, n_proto, n_iter, n_init=5, feature_dim=1024, n_proto_pa
                               verbose=True, 
                               max_points_per_centroid=n_proto_patches,
                               gpu=numOfGPUs)
-        kmeans.train(patches.numpy())
+        kmeans.train(patches[:n_patches].numpy())
         weight = kmeans.centroids[np.newaxis, ...]
 
     else:
