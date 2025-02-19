@@ -16,7 +16,7 @@ By performing an extensive evaluation of **PANTHER** on subtyping and survival t
 <img src='docs/fig_main.jpg' width="1400px" align="center"/>
 
 ## Updates
-- **02/17/2025**: You can also use [TRIDENT](https://github.com/mahmoodlab/Trident) to extract patch features for PANTHER.
+- **02/17/2025**: You can also use [TRIDENT](https://github.com/mahmoodlab/Trident) to extract patch features for PANTHER. We also added small
 - **07/02/2024**: Multimodal extension of PANTHER ([MMP](https://github.com/mahmoodlab/MMP)) codebase is now live.
 - **05/06/2024**: The first version of PANTHER codebase is now live.
 
@@ -71,7 +71,12 @@ While there is no de facto standard, one good practice of organizing features ar
 which specifies *magnification*, *patch size*, and *feature extractor* used to create the patch features. 
 
 ### Step 1. Prototype construction
-For prototype construction, we use K-means clustering across all training WSIs. We recommend using GPU-based FAISS when using large number of patch features for clustering. For example, we can use the following command to find 16 prototypes (of 1,024 dimension each) using FAISS from WSIs corresponding to `SPLIT_DIR/train.csv`.
+**Tips (Updated on 02/17/2025)** 
+- Based on users' opinions, it seems CPU-based K-means is yielding better clustering quality and overall better initialization prototypes. We will provide update on the FAISS-based clustering procedure.
+- Users have also reported good performance when the patch features are normalized to a unit norm. However, since the feature norm itself could contain valuable morphological information, we recommend trying both ways.
+
+For prototype construction, we use K-means clustering across all training WSIs. We can use either CPU-based K-Means or GPU-based FAISS for clustering patch features. 
+For example, we can use the following command to find 16 prototypes (of 1,024 dimension each) using FAISS from WSIs corresponding to `SPLIT_DIR/train.csv`.
 ```shell
 CUDA_VISIBLE_DEVICES=0 python -m training.main_prototype \
 --mode faiss \
